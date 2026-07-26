@@ -1,0 +1,101 @@
+Camp_ID,Camp_Name,State,District,Capacity,Current_People,Food_Stock,Medicine_Stock
+CAMP001,Stadium Camp 1,Kerala,District_D,541,315,2669,814
+CAMP002,Red Cross Camp 2,Gujarat,District_C,274,29,3465,1764
+CAMP003,Stadium Camp 3,Gujarat,District_C,177,176,2156,690
+CAMP004,Red Cross Camp 4,Tamil Nadu,District_A,623,593,3071,434
+CAMP005,Emergency Camp 5,Rajasthan,District_C,73,19,2814,1600
+CAMP006,Emergency Camp 6,Karnataka,District_D,334,170,4513,852
+CAMP007,Food Distribution Center 7,Tamil Nadu,District_B,944,258,594,263
+CAMP008,Medical Camp 8,Bihar,District_B,295,256,2062,531
+CAMP009,Stadium Camp 9,Gujarat,District_C,761,510,1925,157
+CAMP010,Stadium Camp 10,Kerala,District_A,458,372,409,222
+CAMP011,Community Hall 11,Bihar,District_D,264,188,1347,663
+CAMP012,Community Hall 12,Bihar,District_B,592,146,271,98
+CAMP013,Emergency Camp 13,West Bengal,District_C,530,467,188,1992
+CAMP014,Relief Point 14,Odisha,District_B,286,204,245,1827
+CAMP015,Community Kitchen 15,Odisha,District_C,667,476,2515,168
+CAMP016,Holy Family School 16,Gujarat,District_C,894,755,370,243
+CAMP017,Red Cross Camp 17,Tamil Nadu,District_B,272,221,266,1860
+CAMP018,Evacuation Camp 18,Uttar Pradesh,District_B,864,840,3035,965
+CAMP019,Relief Shelter 19,Odisha,District_A,205,136,4824,1311
+CAMP020,Community Kitchen 20,Rajasthan,District_B,386,113,4783,390
+CAMP021,Emergency Camp 21,Odisha,District_D,431,429,4804,1844
+CAMP022,Relief Point 22,Odisha,District_D,289,85,822,941
+CAMP023,Municipal School 23,West Bengal,District_C,645,444,589,1023
+CAMP024,Evacuation Camp 24,Rajasthan,District_B,696,206,1365,201
+CAMP025,Food Distribution Center 25,Maharashtra,District_B,129,24,3686,1128
+CAMP026,Food Distribution Center 26,Uttar Pradesh,District_D,568,425,1663,1465
+CAMP027,Relief Point 27,Uttar Pradesh,District_B,252,102,736,173
+CAMP028,Food Distribution Center 28,Kerala,District_D,396,238,1442,270
+CAMP029,Volunteer Camp 29,Kerala,District_C,902,180,3787,1850
+CAMP030,Volunteer Camp 30,Uttar Pradesh,District_C,920,172,2568,1339
+CAMP031,Municipal School 31,Odisha,District_D,976,844,2559,86
+CAMP032,Volunteer Camp 32,West Bengal,District_A,503,201,4117,336
+CAMP033,Red Cross Camp 33,Tamil Nadu,District_C,90,18,3965,424
+CAMP034,Church Hall 34,Rajasthan,District_A,661,120,1877,767
+CAMP035,Church Hall 35,Odisha,District_A,402,128,1066,1156
+CAMP036,Medical Camp 36,Karnataka,District_A,340,185,3222,1234
+CAMP037,Food Distribution Center 37,Rajasthan,District_B,572,171,3285,549
+CAMP038,Church Hall 38,Karnataka,District_B,506,396,3887,696
+CAMP039,Emergency Camp 39,Odisha,District_B,212,48,1703,269
+CAMP040,Stadium Camp 40,Kerala,District_C,657,272,4696,816
+CAMP041,Food Distribution Center 41,Rajasthan,District_A,268,0,3572,969
+CAMP042,Shelter Home 42,Odisha,District_A,660,300,2743,756
+CAMP043,Shelter Home 43,West Bengal,District_D,611,301,3433,1210
+CAMP044,Aid Camp 44,Uttar Pradesh,District_A,430,171,4047,1046
+CAMP045,Holy Family School 45,Gujarat,District_C,984,426,4379,1258
+CAMP046,Church Hall 46,Tamil Nadu,District_B,218,99,1332,130
+CAMP047,Community Kitchen 47,Gujarat,District_B,114,51,3834,552
+CAMP048,Municipal School 48,Maharashtra,District_B,318,108,1711,1740
+CAMP049,Temple Ground 49,Odisha,District_A,480,134,3050,488
+CAMP050,Municipal School 50,Rajasthan,District_B,805,348,4320,1577
+CAMP051,Red Cross Camp 51,Gujarat,District_B,818,290,229,391
+CAMP052,Community Kitchen 52,West Bengal,District_B,550,150,2385,1693
+CAMP053,Relief Shelter 53,Maharashtra,District_B,69,65,248,1865
+CAMP054,Temple Ground 54,Uttar Pradesh,District_C,961,205,4144,701
+CAMP055,Aid Camp 55,West Bengal,District_D,455,247,2399,639
+CAMP056,Community Hall 56,Odisha,District_D,626,414,181,702
+CAMP057,Support Center 57,Bihar,District_A,282,66,191,1917
+CAMP058,Support Center 58,Kerala,District_A,820,249,395,1590
+CAMP059,Evacuation Camp 59,Kerala,District_B,101,85,1243,577
+CAMP060,Medical Camp 60,Rajasthan,District_D,747,568,3522,1410
+CAMP061,Relief Point 61,Uttar Pradesh,District_A,260,34,3546,1401
+CAMP062,Community Center 62,Odisha,District_A,332,274,3265,1934
+CAMP063,Support Center 63,Bihar,District_A,258,54,4927,589
+CAMP064,Church Hall 64,Bihar,District_D,327,176,747,1921
+CAMP065,Aid Camp 65,Karnataka,District_D,399,295,886,590
+CAMP066,Stadium Camp 66,Karnataka,District_A,327,314,4155,1830
+CAMP067,Temple Ground 67,Kerala,District_D,432,205,1375,1871
+CAMP068,Temple Ground 68,Uttar Pradesh,District_B,702,551,2101,610
+CAMP069,Municipal School 69,Kerala,District_A,315,62,371,251
+CAMP070,Red Cross Camp 70,Kerala,District_A,596,333,2009,1969
+CAMP071,Aid Camp 71,Gujarat,District_D,435,338,3447,509
+CAMP072,Relief Shelter 72,Karnataka,District_C,727,124,4894,1277
+CAMP073,Relief Shelter 73,Rajasthan,District_D,795,374,4735,1880
+CAMP074,Temple Ground 74,Maharashtra,District_C,690,151,523,253
+CAMP075,Stadium Camp 75,Kerala,District_B,913,407,4414,498
+CAMP076,Evacuation Camp 76,West Bengal,District_D,817,471,1486,463
+CAMP077,Holy Family School 77,West Bengal,District_D,766,348,2730,689
+CAMP078,Food Distribution Center 78,Karnataka,District_D,767,413,2214,1337
+CAMP079,Emergency Camp 79,Gujarat,District_C,680,397,4191,1682
+CAMP080,Municipal School 80,Maharashtra,District_D,692,179,273,176
+CAMP081,Holy Family School 81,Gujarat,District_D,996,899,4344,1128
+CAMP082,Municipal School 82,Gujarat,District_A,375,66,2193,1922
+CAMP083,Community Center 83,Tamil Nadu,District_D,208,13,3128,1015
+CAMP084,Community Hall 84,Uttar Pradesh,District_D,665,394,570,732
+CAMP085,Red Cross Camp 85,Kerala,District_D,766,147,4794,56
+CAMP086,Medical Camp 86,Karnataka,District_D,776,322,4883,379
+CAMP087,Aid Camp 87,Bihar,District_C,573,206,311,248
+CAMP088,Emergency Shelter 88,Karnataka,District_B,794,166,2239,256
+CAMP089,Community Hall 89,Rajasthan,District_C,440,55,4931,138
+CAMP090,Relief Shelter 90,Rajasthan,District_B,984,656,1521,1354
+CAMP091,Shelter Home 91,Kerala,District_A,997,166,211,1901
+CAMP092,Support Center 92,Kerala,District_D,109,52,705,1781
+CAMP093,Aid Camp 93,Uttar Pradesh,District_A,677,188,4669,1093
+CAMP094,Medical Camp 94,Rajasthan,District_B,698,608,4956,651
+CAMP095,Support Center 95,Karnataka,District_C,566,351,1707,684
+CAMP096,Stadium Camp 96,Kerala,District_C,431,356,2392,1101
+CAMP097,Community Center 97,Bihar,District_D,465,230,3228,949
+CAMP098,Support Center 98,Bihar,District_A,822,589,4927,1135
+CAMP099,Food Distribution Center 99,Gujarat,District_D,241,171,1752,1989
+CAMP100,Aid Camp 100,Rajasthan,District_C,525,455,2291,941

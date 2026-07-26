@@ -1,0 +1,1001 @@
+Victim_ID,Name,Age,Gender,State,District,Phone,Disaster_ID,Camp_ID,Medical_Status
+VIC0001,Sara Kumar,13,Female,Tamil Nadu,District_A,9636877058,DIS037,CAMP037,Minor Injuries
+VIC0002,Anika Yadav,70,Male,Odisha,District_C,9192497045,DIS028,CAMP073,Minor Injuries
+VIC0003,Krishna Menon,68,Male,Maharashtra,District_D,9926841017,DIS013,CAMP051,Healthy
+VIC0004,Pooja Menon,39,Female,Maharashtra,District_A,9431651343,DIS002,CAMP084,Minor Injuries
+VIC0005,Raj Reddy,78,Male,Karnataka,District_D,9835868480,DIS044,CAMP024,Healthy
+VIC0006,Isha Yadav,45,Female,Uttar Pradesh,District_B,9699353631,DIS048,CAMP045,Critical
+VIC0007,Sneha Verma,3,Male,West Bengal,District_C,9226678191,DIS011,CAMP029,Serious Injuries
+VIC0008,Krishna Kumar,39,Female,Tamil Nadu,District_A,9881336074,DIS036,CAMP085,Under Treatment
+VIC0009,Anvi Desai,70,Male,Tamil Nadu,District_D,9522256151,DIS030,CAMP095,Serious Injuries
+VIC0010,Myra Mehta,4,Female,Maharashtra,District_D,9175665309,DIS050,CAMP096,Under Treatment
+VIC0011,Pranav Singh,47,Female,Uttar Pradesh,District_D,9543998702,DIS025,CAMP056,Serious Injuries
+VIC0012,Krishna Rao,19,Male,Uttar Pradesh,District_C,9694160182,DIS031,CAMP049,Minor Injuries
+VIC0013,Riya Nair,12,Female,Gujarat,District_A,9103351011,DIS037,CAMP086,Serious Injuries
+VIC0014,Arjun Reddy,83,Male,Karnataka,District_D,9877188493,DIS041,CAMP044,Minor Injuries
+VIC0015,Pranav Joshi,62,Male,Rajasthan,District_B,9941023130,DIS014,CAMP067,Minor Injuries
+VIC0016,Isha Yadav,7,Male,Odisha,District_B,9787347091,DIS030,CAMP030,Minor Injuries
+VIC0017,Vivaan Gupta,37,Male,Odisha,District_A,9584622814,DIS035,CAMP067,Minor Injuries
+VIC0018,Pooja Nair,26,Female,Uttar Pradesh,District_D,9214752054,DIS050,CAMP007,Minor Injuries
+VIC0019,Aarav Menon,61,Female,Bihar,District_B,9522467854,DIS049,CAMP024,Critical
+VIC0020,Riya Shah,36,Female,West Bengal,District_A,9381830738,DIS017,CAMP027,Minor Injuries
+VIC0021,Aditya Gupta,35,Male,Gujarat,District_C,9589019333,DIS018,CAMP044,Serious Injuries
+VIC0022,Pranav Reddy,49,Male,Odisha,District_A,9233702414,DIS010,CAMP026,Serious Injuries
+VIC0023,Sana Reddy,24,Male,Uttar Pradesh,District_C,9475690875,DIS049,CAMP044,Under Treatment
+VIC0024,Krishna Shah,13,Male,Kerala,District_D,9142673819,DIS026,CAMP080,Minor Injuries
+VIC0025,Ishika Verma,14,Male,Gujarat,District_A,9660622236,DIS010,CAMP052,Healthy
+VIC0026,Raj Patel,73,Female,Tamil Nadu,District_A,9314151662,DIS006,CAMP071,Serious Injuries
+VIC0027,Sanjay Singh,62,Male,Odisha,District_C,9896869402,DIS008,CAMP056,Healthy
+VIC0028,Shaurya Patel,55,Male,West Bengal,District_C,9918258687,DIS022,CAMP020,Critical
+VIC0029,Ishika Reddy,64,Female,Odisha,District_C,9539580466,DIS007,CAMP092,Critical
+VIC0030,Dhruv Yadav,55,Male,Karnataka,District_D,9416923432,DIS045,CAMP094,Serious Injuries
+VIC0031,Dhruv Gupta,7,Female,Odisha,District_A,9207355690,DIS040,CAMP004,Under Treatment
+VIC0032,Sara Patel,57,Male,Bihar,District_B,9121773352,DIS028,CAMP039,Minor Injuries
+VIC0033,Shaurya Singh,41,Female,Rajasthan,District_A,9929478534,DIS042,CAMP095,Critical
+VIC0034,Sunita Rao,40,Male,Uttar Pradesh,District_B,9330058116,DIS037,CAMP079,Minor Injuries
+VIC0035,Sunita Kumar,41,Female,Gujarat,District_A,9550712931,DIS044,CAMP048,Minor Injuries
+VIC0036,Priya Reddy,85,Male,Tamil Nadu,District_C,9675458402,DIS007,CAMP009,Serious Injuries
+VIC0037,Pranav Shah,33,Female,Rajasthan,District_D,9957863044,DIS031,CAMP016,Serious Injuries
+VIC0038,Ayaan Sharma,9,Female,Tamil Nadu,District_D,9420193147,DIS018,CAMP022,Healthy
+VIC0039,Krishna Verma,82,Female,Uttar Pradesh,District_A,9203684777,DIS018,CAMP068,Healthy
+VIC0040,Sana Kumar,61,Male,Karnataka,District_A,9650342913,DIS002,CAMP074,Serious Injuries
+VIC0041,Arjun Reddy,32,Male,Gujarat,District_B,9808669995,DIS004,CAMP037,Minor Injuries
+VIC0042,Anvi Menon,15,Female,Odisha,District_C,9124984657,DIS024,CAMP012,Serious Injuries
+VIC0043,Sanjay Nair,63,Male,Kerala,District_C,9462891073,DIS017,CAMP084,Critical
+VIC0044,Pooja Joshi,20,Female,Karnataka,District_D,9962470348,DIS005,CAMP014,Healthy
+VIC0045,Ayaan Patel,52,Female,Bihar,District_A,9133012667,DIS021,CAMP083,Healthy
+VIC0046,Vihaan Yadav,20,Male,Uttar Pradesh,District_A,9595774245,DIS049,CAMP087,Under Treatment
+VIC0047,Arjun Singh,35,Male,Kerala,District_C,9546677304,DIS041,CAMP087,Serious Injuries
+VIC0048,Sanjay Yadav,47,Female,Maharashtra,District_A,9347479469,DIS011,CAMP034,Serious Injuries
+VIC0049,Aditya Verma,2,Male,Odisha,District_C,9416987310,DIS050,CAMP100,Under Treatment
+VIC0050,Myra Pandey,74,Female,Gujarat,District_A,9918504472,DIS010,CAMP043,Healthy
+VIC0051,Anvi Shah,27,Female,Bihar,District_D,9551350484,DIS025,CAMP074,Under Treatment
+VIC0052,Aarav Menon,51,Male,Kerala,District_A,9602477273,DIS017,CAMP083,Critical
+VIC0053,Riya Yadav,38,Male,Bihar,District_D,9218143424,DIS045,CAMP094,Minor Injuries
+VIC0054,Krishna Mehta,20,Female,Tamil Nadu,District_B,9381350602,DIS001,CAMP054,Critical
+VIC0055,Ananya Joshi,64,Female,Tamil Nadu,District_C,9574909101,DIS031,CAMP030,Serious Injuries
+VIC0056,Aarav Pandey,56,Male,Maharashtra,District_B,9162128951,DIS005,CAMP011,Healthy
+VIC0057,Riya Kumar,28,Male,Bihar,District_B,9614817897,DIS023,CAMP024,Minor Injuries
+VIC0058,Aryan Nair,84,Female,Bihar,District_B,9637063193,DIS002,CAMP033,Minor Injuries
+VIC0059,Priya Reddy,66,Male,Odisha,District_D,9145831587,DIS021,CAMP083,Critical
+VIC0060,Sunita Patel,75,Female,Karnataka,District_D,9115931772,DIS027,CAMP006,Healthy
+VIC0061,Aarav Gupta,63,Female,Odisha,District_B,9611627780,DIS035,CAMP093,Healthy
+VIC0062,Shaurya Menon,46,Female,Rajasthan,District_C,9888184327,DIS005,CAMP057,Minor Injuries
+VIC0063,Sai Joshi,74,Female,Karnataka,District_B,9392661189,DIS003,CAMP072,Serious Injuries
+VIC0064,Pranav Verma,77,Female,Rajasthan,District_C,9199659454,DIS034,CAMP096,Under Treatment
+VIC0065,Raj Verma,54,Male,Maharashtra,District_A,9260255313,DIS003,CAMP061,Healthy
+VIC0066,Amit Pandey,33,Female,Tamil Nadu,District_A,9232191705,DIS005,CAMP100,Healthy
+VIC0067,Aditya Rao,26,Male,Karnataka,District_A,9636296808,DIS033,CAMP051,Healthy
+VIC0068,Vihaan Menon,72,Female,Maharashtra,District_A,9627598848,DIS020,CAMP081,Healthy
+VIC0069,Isha Shah,41,Female,Tamil Nadu,District_A,9504487862,DIS038,CAMP044,Healthy
+VIC0070,Dhruv Nair,46,Male,Kerala,District_D,9662698303,DIS025,CAMP042,Under Treatment
+VIC0071,Vivaan Mehta,28,Female,Karnataka,District_B,9527128480,DIS042,CAMP023,Under Treatment
+VIC0072,Vihaan Yadav,2,Female,Odisha,District_D,9237995214,DIS021,CAMP098,Minor Injuries
+VIC0073,Riya Gupta,24,Male,Gujarat,District_A,9444500009,DIS005,CAMP042,Serious Injuries
+VIC0074,Priya Gupta,7,Female,Rajasthan,District_A,9219388071,DIS010,CAMP087,Serious Injuries
+VIC0075,Arjun Gupta,3,Female,Bihar,District_C,9679527335,DIS027,CAMP076,Healthy
+VIC0076,Arjun Gupta,16,Male,Karnataka,District_A,9732141422,DIS021,CAMP086,Critical
+VIC0077,Vivaan Rao,49,Female,Odisha,District_A,9553602034,DIS033,CAMP087,Minor Injuries
+VIC0078,Sanjay Verma,53,Female,Tamil Nadu,District_B,9926119995,DIS036,CAMP088,Under Treatment
+VIC0079,Ananya Menon,19,Male,Bihar,District_C,9532878124,DIS039,CAMP071,Under Treatment
+VIC0080,Sana Joshi,50,Male,Gujarat,District_A,9157712937,DIS042,CAMP077,Healthy
+VIC0081,Sunita Shah,52,Female,Uttar Pradesh,District_C,9813291958,DIS024,CAMP053,Minor Injuries
+VIC0082,Sara Patel,25,Male,Bihar,District_A,9576740750,DIS032,CAMP048,Under Treatment
+VIC0083,Vivaan Menon,76,Male,Tamil Nadu,District_D,9137466957,DIS018,CAMP018,Under Treatment
+VIC0084,Vivaan Menon,65,Female,Tamil Nadu,District_C,9230129440,DIS007,CAMP078,Healthy
+VIC0085,Krishna Yadav,19,Female,Maharashtra,District_C,9791975186,DIS003,CAMP030,Under Treatment
+VIC0086,Vihaan Verma,24,Male,Karnataka,District_C,9153876118,DIS041,CAMP038,Healthy
+VIC0087,Isha Mehta,39,Male,Maharashtra,District_B,9951114609,DIS002,CAMP036,Healthy
+VIC0088,Sunita Menon,47,Male,Maharashtra,District_C,9207194832,DIS043,CAMP052,Serious Injuries
+VIC0089,Sana Sharma,50,Male,Bihar,District_A,9277794756,DIS004,CAMP020,Serious Injuries
+VIC0090,Anvi Mehta,5,Male,Odisha,District_A,9182337399,DIS001,CAMP033,Healthy
+VIC0091,Sneha Shah,64,Male,Gujarat,District_B,9687042580,DIS004,CAMP025,Critical
+VIC0092,Sara Gupta,40,Male,Odisha,District_B,9414929239,DIS049,CAMP098,Under Treatment
+VIC0093,Amit Rao,81,Male,Odisha,District_D,9386853991,DIS038,CAMP074,Under Treatment
+VIC0094,Sanjay Gupta,41,Female,Odisha,District_A,9290347100,DIS021,CAMP076,Serious Injuries
+VIC0095,Vihaan Reddy,83,Male,Uttar Pradesh,District_B,9956089717,DIS036,CAMP047,Critical
+VIC0096,Dhruv Verma,1,Female,Gujarat,District_D,9965611438,DIS024,CAMP076,Serious Injuries
+VIC0097,Vivaan Yadav,67,Female,Uttar Pradesh,District_B,9562051968,DIS046,CAMP046,Healthy
+VIC0098,Riya Shah,39,Female,Gujarat,District_B,9517642576,DIS018,CAMP077,Healthy
+VIC0099,Ananya Gupta,71,Male,Gujarat,District_D,9739031222,DIS044,CAMP060,Under Treatment
+VIC0100,Rohan Yadav,35,Female,Bihar,District_D,9517724499,DIS038,CAMP026,Serious Injuries
+VIC0101,Ananya Patel,82,Male,West Bengal,District_A,9713447127,DIS005,CAMP037,Healthy
+VIC0102,Ishita Shah,22,Female,Odisha,District_C,9783808776,DIS007,CAMP030,Healthy
+VIC0103,Raj Rao,10,Male,Odisha,District_C,9495199317,DIS002,CAMP068,Minor Injuries
+VIC0104,Diya Yadav,48,Male,Uttar Pradesh,District_D,9349371995,DIS015,CAMP091,Serious Injuries
+VIC0105,Sai Menon,27,Male,Karnataka,District_B,9230386108,DIS023,CAMP053,Under Treatment
+VIC0106,Krishna Mehta,80,Female,Karnataka,District_D,9566003454,DIS006,CAMP065,Critical
+VIC0107,Amit Menon,30,Female,Uttar Pradesh,District_C,9243656465,DIS006,CAMP002,Healthy
+VIC0108,Sara Kumar,12,Male,Bihar,District_C,9606807135,DIS034,CAMP023,Serious Injuries
+VIC0109,Sunita Sharma,21,Female,Bihar,District_A,9167013000,DIS036,CAMP089,Healthy
+VIC0110,Aarav Kumar,70,Female,Tamil Nadu,District_D,9270443469,DIS012,CAMP018,Serious Injuries
+VIC0111,Ishika Patel,53,Male,Tamil Nadu,District_D,9363307628,DIS012,CAMP091,Minor Injuries
+VIC0112,Diya Verma,22,Female,Gujarat,District_A,9132060218,DIS036,CAMP039,Healthy
+VIC0113,Sana Desai,4,Female,Kerala,District_D,9443343701,DIS032,CAMP047,Healthy
+VIC0114,Sara Singh,67,Male,West Bengal,District_D,9662383049,DIS007,CAMP024,Under Treatment
+VIC0115,Pranav Rao,49,Male,Uttar Pradesh,District_B,9177794077,DIS034,CAMP074,Minor Injuries
+VIC0116,Sunita Mehta,57,Female,Odisha,District_B,9871399137,DIS018,CAMP086,Under Treatment
+VIC0117,Vihaan Nair,42,Female,Bihar,District_B,9812235173,DIS026,CAMP018,Healthy
+VIC0118,Pranav Nair,58,Male,Gujarat,District_A,9291053189,DIS007,CAMP003,Healthy
+VIC0119,Priya Nair,82,Male,Tamil Nadu,District_D,9540389339,DIS006,CAMP057,Minor Injuries
+VIC0120,Arjun Verma,66,Male,Odisha,District_B,9496300304,DIS012,CAMP024,Minor Injuries
+VIC0121,Sai Yadav,67,Male,Rajasthan,District_A,9462989515,DIS021,CAMP035,Healthy
+VIC0122,Rohan Rao,41,Female,Rajasthan,District_A,9220954437,DIS032,CAMP045,Minor Injuries
+VIC0123,Riya Patel,68,Male,Tamil Nadu,District_C,9164215996,DIS028,CAMP094,Critical
+VIC0124,Anika Verma,32,Male,Tamil Nadu,District_D,9323032231,DIS042,CAMP013,Under Treatment
+VIC0125,Ishita Rao,65,Female,Karnataka,District_D,9184436429,DIS035,CAMP052,Under Treatment
+VIC0126,Priya Reddy,17,Female,Gujarat,District_B,9279131990,DIS014,CAMP094,Critical
+VIC0127,Isha Sharma,13,Male,Karnataka,District_A,9821912220,DIS035,CAMP087,Critical
+VIC0128,Krishna Nair,64,Female,Bihar,District_C,9163144527,DIS018,CAMP054,Critical
+VIC0129,Shaurya Yadav,16,Male,Maharashtra,District_D,9413530076,DIS012,CAMP020,Healthy
+VIC0130,Isha Patel,66,Male,Tamil Nadu,District_A,9431695214,DIS037,CAMP026,Healthy
+VIC0131,Arjun Mehta,17,Female,Rajasthan,District_B,9413503425,DIS007,CAMP056,Serious Injuries
+VIC0132,Sai Singh,69,Male,Tamil Nadu,District_D,9636892974,DIS004,CAMP057,Healthy
+VIC0133,Sai Kumar,58,Female,Odisha,District_C,9511253615,DIS049,CAMP093,Minor Injuries
+VIC0134,Isha Shah,24,Female,Kerala,District_A,9443101998,DIS040,CAMP027,Serious Injuries
+VIC0135,Dhruv Joshi,23,Female,Bihar,District_A,9238035975,DIS040,CAMP037,Critical
+VIC0136,Pranav Yadav,7,Female,Uttar Pradesh,District_D,9668876379,DIS014,CAMP020,Serious Injuries
+VIC0137,Sneha Shah,39,Female,Kerala,District_D,9675885552,DIS042,CAMP095,Serious Injuries
+VIC0138,Anvi Shah,3,Male,Odisha,District_D,9670061098,DIS041,CAMP028,Serious Injuries
+VIC0139,Isha Joshi,58,Male,West Bengal,District_C,9621589558,DIS023,CAMP050,Serious Injuries
+VIC0140,Isha Joshi,61,Male,Uttar Pradesh,District_D,9531592383,DIS050,CAMP001,Healthy
+VIC0141,Ishika Reddy,58,Female,Odisha,District_B,9764269914,DIS037,CAMP019,Minor Injuries
+VIC0142,Riya Rao,49,Male,Bihar,District_A,9188323265,DIS035,CAMP079,Minor Injuries
+VIC0143,Anika Patel,70,Male,Tamil Nadu,District_B,9531596252,DIS005,CAMP039,Healthy
+VIC0144,Ananya Verma,7,Female,Kerala,District_C,9117498770,DIS027,CAMP089,Under Treatment
+VIC0145,Diya Shah,55,Female,Tamil Nadu,District_A,9546861618,DIS047,CAMP085,Serious Injuries
+VIC0146,Sunita Singh,84,Male,West Bengal,District_B,9512549321,DIS050,CAMP023,Healthy
+VIC0147,Anvi Yadav,30,Male,Bihar,District_C,9345236978,DIS009,CAMP037,Under Treatment
+VIC0148,Sanjay Mehta,52,Male,Gujarat,District_C,9897410382,DIS009,CAMP099,Minor Injuries
+VIC0149,Aarav Yadav,22,Male,Rajasthan,District_A,9563062233,DIS017,CAMP048,Under Treatment
+VIC0150,Shaurya Gupta,12,Female,Kerala,District_A,9694744113,DIS028,CAMP076,Healthy
+VIC0151,Amit Sharma,29,Female,Maharashtra,District_B,9905304630,DIS049,CAMP043,Healthy
+VIC0152,Arjun Pandey,47,Male,Odisha,District_B,9351305468,DIS011,CAMP007,Minor Injuries
+VIC0153,Amit Joshi,26,Male,Karnataka,District_A,9341663864,DIS035,CAMP052,Healthy
+VIC0154,Rohan Rao,65,Female,Uttar Pradesh,District_C,9482680862,DIS024,CAMP061,Healthy
+VIC0155,Aryan Patel,21,Female,Bihar,District_D,9866458598,DIS003,CAMP067,Minor Injuries
+VIC0156,Arjun Menon,3,Female,Odisha,District_C,9423002485,DIS049,CAMP080,Serious Injuries
+VIC0157,Ishika Joshi,51,Male,Maharashtra,District_A,9104156987,DIS020,CAMP014,Healthy
+VIC0158,Ishika Patel,53,Female,Gujarat,District_A,9745935051,DIS039,CAMP020,Healthy
+VIC0159,Raj Mehta,18,Male,Rajasthan,District_D,9108586282,DIS003,CAMP080,Minor Injuries
+VIC0160,Sana Rao,35,Male,Maharashtra,District_D,9912189638,DIS023,CAMP095,Healthy
+VIC0161,Arjun Desai,69,Female,Bihar,District_D,9890791690,DIS031,CAMP005,Critical
+VIC0162,Rohan Desai,60,Male,Rajasthan,District_B,9806509316,DIS020,CAMP042,Healthy
+VIC0163,Aarav Menon,53,Female,Kerala,District_A,9191686335,DIS002,CAMP076,Critical
+VIC0164,Raj Nair,12,Male,Kerala,District_D,9358687201,DIS009,CAMP078,Healthy
+VIC0165,Aditya Mehta,78,Female,Odisha,District_C,9719166235,DIS039,CAMP074,Serious Injuries
+VIC0166,Aanya Mehta,17,Male,Maharashtra,District_C,9697435774,DIS041,CAMP046,Serious Injuries
+VIC0167,Arjun Gupta,67,Male,Tamil Nadu,District_C,9894883390,DIS009,CAMP088,Healthy
+VIC0168,Isha Joshi,67,Female,Gujarat,District_A,9889528957,DIS013,CAMP063,Minor Injuries
+VIC0169,Dhruv Singh,52,Female,Bihar,District_B,9320707409,DIS020,CAMP013,Under Treatment
+VIC0170,Anvi Singh,33,Female,Uttar Pradesh,District_A,9750491966,DIS032,CAMP036,Minor Injuries
+VIC0171,Riya Reddy,63,Female,Odisha,District_C,9762261300,DIS026,CAMP036,Healthy
+VIC0172,Myra Patel,76,Male,Uttar Pradesh,District_A,9554031207,DIS046,CAMP075,Minor Injuries
+VIC0173,Diya Menon,15,Female,Tamil Nadu,District_A,9804607763,DIS010,CAMP012,Under Treatment
+VIC0174,Aanya Patel,82,Female,Tamil Nadu,District_D,9982258102,DIS043,CAMP007,Under Treatment
+VIC0175,Vivaan Sharma,38,Female,Maharashtra,District_C,9152426764,DIS044,CAMP041,Minor Injuries
+VIC0176,Pooja Rao,49,Female,Gujarat,District_C,9192396419,DIS039,CAMP011,Under Treatment
+VIC0177,Krishna Sharma,26,Male,Odisha,District_D,9608771585,DIS022,CAMP028,Healthy
+VIC0178,Anvi Joshi,85,Male,Odisha,District_D,9212687414,DIS044,CAMP019,Healthy
+VIC0179,Pooja Desai,53,Male,Bihar,District_B,9645733270,DIS010,CAMP019,Under Treatment
+VIC0180,Riya Shah,22,Male,Maharashtra,District_B,9840194170,DIS031,CAMP077,Serious Injuries
+VIC0181,Arjun Patel,15,Female,Bihar,District_B,9691580340,DIS012,CAMP003,Serious Injuries
+VIC0182,Sana Verma,4,Male,Tamil Nadu,District_D,9448641940,DIS048,CAMP018,Serious Injuries
+VIC0183,Raj Sharma,22,Male,Uttar Pradesh,District_B,9755439292,DIS042,CAMP013,Serious Injuries
+VIC0184,Aarav Yadav,74,Female,Rajasthan,District_B,9643945629,DIS037,CAMP002,Under Treatment
+VIC0185,Shaurya Singh,39,Female,Kerala,District_C,9798301664,DIS014,CAMP096,Serious Injuries
+VIC0186,Anvi Menon,28,Male,Odisha,District_B,9483239141,DIS011,CAMP072,Minor Injuries
+VIC0187,Aarav Shah,62,Female,Rajasthan,District_B,9183992375,DIS039,CAMP047,Minor Injuries
+VIC0188,Krishna Verma,21,Male,Bihar,District_D,9169329839,DIS023,CAMP027,Healthy
+VIC0189,Sunita Sharma,8,Female,Kerala,District_C,9283932804,DIS022,CAMP055,Healthy
+VIC0190,Arjun Joshi,57,Male,West Bengal,District_B,9257697625,DIS042,CAMP032,Minor Injuries
+VIC0191,Aanya Reddy,39,Female,Uttar Pradesh,District_B,9400557194,DIS024,CAMP066,Under Treatment
+VIC0192,Isha Reddy,59,Male,Kerala,District_A,9717328492,DIS041,CAMP100,Healthy
+VIC0193,Myra Pandey,32,Male,Karnataka,District_A,9918449374,DIS050,CAMP020,Under Treatment
+VIC0194,Pooja Reddy,16,Female,Gujarat,District_D,9523744774,DIS049,CAMP058,Under Treatment
+VIC0195,Sneha Rao,1,Male,Odisha,District_B,9995215625,DIS040,CAMP064,Under Treatment
+VIC0196,Aryan Menon,72,Female,Odisha,District_C,9264102306,DIS017,CAMP099,Healthy
+VIC0197,Aditya Mehta,67,Female,Uttar Pradesh,District_A,9355862835,DIS023,CAMP086,Serious Injuries
+VIC0198,Vihaan Sharma,77,Female,Maharashtra,District_B,9582020135,DIS004,CAMP019,Healthy
+VIC0199,Ayaan Desai,47,Male,Tamil Nadu,District_B,9206096228,DIS022,CAMP018,Healthy
+VIC0200,Aditya Verma,76,Male,Uttar Pradesh,District_B,9808253048,DIS019,CAMP008,Under Treatment
+VIC0201,Raj Sharma,2,Female,Karnataka,District_B,9640675151,DIS030,CAMP029,Serious Injuries
+VIC0202,Diya Sharma,48,Female,Bihar,District_D,9325351204,DIS031,CAMP065,Healthy
+VIC0203,Diya Sharma,81,Male,Maharashtra,District_B,9416272502,DIS039,CAMP010,Serious Injuries
+VIC0204,Krishna Kumar,58,Female,Maharashtra,District_B,9189907539,DIS044,CAMP087,Under Treatment
+VIC0205,Krishna Kumar,66,Male,Gujarat,District_B,9289466476,DIS022,CAMP009,Under Treatment
+VIC0206,Riya Pandey,5,Male,West Bengal,District_B,9274667075,DIS039,CAMP080,Healthy
+VIC0207,Arjun Joshi,70,Female,Uttar Pradesh,District_D,9712656970,DIS049,CAMP034,Critical
+VIC0208,Krishna Mehta,67,Male,Bihar,District_A,9597235767,DIS046,CAMP084,Minor Injuries
+VIC0209,Sara Singh,8,Female,Kerala,District_A,9514514281,DIS015,CAMP070,Serious Injuries
+VIC0210,Raj Joshi,79,Male,West Bengal,District_C,9642157285,DIS023,CAMP062,Minor Injuries
+VIC0211,Shaurya Sharma,35,Female,Tamil Nadu,District_A,9122887866,DIS024,CAMP076,Under Treatment
+VIC0212,Sara Shah,16,Female,Gujarat,District_B,9120110596,DIS031,CAMP010,Minor Injuries
+VIC0213,Ananya Patel,49,Female,Uttar Pradesh,District_A,9478611582,DIS009,CAMP072,Serious Injuries
+VIC0214,Rohan Reddy,15,Female,Karnataka,District_D,9567280606,DIS041,CAMP077,Serious Injuries
+VIC0215,Sunita Rao,17,Female,Tamil Nadu,District_D,9469859670,DIS012,CAMP077,Minor Injuries
+VIC0216,Aarav Menon,11,Female,Gujarat,District_A,9998380404,DIS044,CAMP019,Minor Injuries
+VIC0217,Arjun Joshi,80,Male,Rajasthan,District_C,9734922141,DIS028,CAMP034,Healthy
+VIC0218,Aditya Kumar,23,Female,Karnataka,District_C,9807672587,DIS043,CAMP075,Healthy
+VIC0219,Sanjay Sharma,28,Male,Rajasthan,District_C,9285554308,DIS049,CAMP072,Minor Injuries
+VIC0220,Aditya Reddy,80,Male,Kerala,District_D,9861691196,DIS012,CAMP054,Under Treatment
+VIC0221,Myra Pandey,33,Female,Bihar,District_D,9270772724,DIS023,CAMP065,Minor Injuries
+VIC0222,Arjun Patel,35,Male,Karnataka,District_B,9266520683,DIS022,CAMP077,Serious Injuries
+VIC0223,Rohan Yadav,76,Female,Odisha,District_A,9111272546,DIS042,CAMP099,Healthy
+VIC0224,Arjun Singh,12,Female,Kerala,District_D,9522349797,DIS015,CAMP034,Under Treatment
+VIC0225,Raj Reddy,46,Male,Rajasthan,District_B,9863277625,DIS019,CAMP033,Healthy
+VIC0226,Sneha Singh,39,Male,Maharashtra,District_C,9550105504,DIS023,CAMP033,Healthy
+VIC0227,Diya Rao,61,Male,Tamil Nadu,District_D,9772535544,DIS009,CAMP032,Minor Injuries
+VIC0228,Aditya Menon,10,Female,Rajasthan,District_D,9857723665,DIS028,CAMP003,Serious Injuries
+VIC0229,Sneha Verma,64,Female,Bihar,District_B,9401820749,DIS013,CAMP015,Minor Injuries
+VIC0230,Dhruv Patel,78,Male,Tamil Nadu,District_D,9900315021,DIS047,CAMP036,Serious Injuries
+VIC0231,Raj Yadav,13,Female,Kerala,District_B,9543479254,DIS048,CAMP097,Minor Injuries
+VIC0232,Pranav Gupta,37,Female,Rajasthan,District_D,9319025613,DIS046,CAMP076,Serious Injuries
+VIC0233,Myra Verma,82,Female,Karnataka,District_A,9319165129,DIS007,CAMP071,Under Treatment
+VIC0234,Aryan Singh,14,Female,Odisha,District_C,9135392289,DIS040,CAMP075,Healthy
+VIC0235,Myra Shah,26,Female,Rajasthan,District_D,9795434996,DIS020,CAMP073,Healthy
+VIC0236,Diya Shah,50,Female,Tamil Nadu,District_B,9954361655,DIS030,CAMP058,Serious Injuries
+VIC0237,Diya Joshi,42,Male,Gujarat,District_C,9313022444,DIS006,CAMP030,Minor Injuries
+VIC0238,Aryan Menon,50,Male,Bihar,District_D,9866655704,DIS040,CAMP052,Under Treatment
+VIC0239,Riya Desai,53,Male,Maharashtra,District_A,9424130410,DIS007,CAMP002,Minor Injuries
+VIC0240,Diya Joshi,53,Female,Gujarat,District_B,9878692094,DIS001,CAMP036,Healthy
+VIC0241,Aarav Desai,73,Male,Maharashtra,District_C,9949832408,DIS008,CAMP039,Healthy
+VIC0242,Vivaan Desai,62,Female,Maharashtra,District_C,9649474948,DIS002,CAMP058,Healthy
+VIC0243,Anika Patel,72,Male,Odisha,District_D,9832869797,DIS049,CAMP053,Healthy
+VIC0244,Sanjay Shah,16,Male,Tamil Nadu,District_D,9414065987,DIS027,CAMP051,Healthy
+VIC0245,Ishika Yadav,40,Female,Gujarat,District_B,9652086414,DIS042,CAMP016,Critical
+VIC0246,Shaurya Nair,2,Female,West Bengal,District_B,9124940418,DIS048,CAMP041,Healthy
+VIC0247,Diya Desai,65,Male,Uttar Pradesh,District_A,9979011435,DIS018,CAMP055,Healthy
+VIC0248,Riya Verma,44,Male,Odisha,District_B,9581265551,DIS027,CAMP021,Healthy
+VIC0249,Aryan Verma,23,Male,West Bengal,District_A,9826373143,DIS012,CAMP040,Minor Injuries
+VIC0250,Sara Menon,68,Male,Bihar,District_C,9988868769,DIS004,CAMP009,Serious Injuries
+VIC0251,Arjun Gupta,24,Male,Uttar Pradesh,District_D,9514157501,DIS021,CAMP040,Healthy
+VIC0252,Raj Rao,30,Male,Rajasthan,District_A,9619237615,DIS013,CAMP081,Healthy
+VIC0253,Anvi Shah,13,Female,Gujarat,District_B,9977677477,DIS035,CAMP056,Healthy
+VIC0254,Aditya Joshi,15,Male,Gujarat,District_C,9799480812,DIS019,CAMP031,Critical
+VIC0255,Ayaan Gupta,57,Male,West Bengal,District_C,9594659002,DIS021,CAMP055,Healthy
+VIC0256,Pooja Gupta,25,Female,Rajasthan,District_C,9707502184,DIS008,CAMP015,Minor Injuries
+VIC0257,Sai Gupta,80,Female,Bihar,District_D,9357052365,DIS034,CAMP054,Healthy
+VIC0258,Krishna Rao,41,Female,Rajasthan,District_D,9944411618,DIS048,CAMP036,Healthy
+VIC0259,Aanya Gupta,21,Female,Kerala,District_D,9943571533,DIS012,CAMP077,Minor Injuries
+VIC0260,Ayaan Gupta,81,Male,Odisha,District_A,9597145934,DIS019,CAMP093,Healthy
+VIC0261,Diya Joshi,66,Female,Maharashtra,District_B,9292977514,DIS014,CAMP100,Healthy
+VIC0262,Raj Rao,54,Male,Bihar,District_B,9474482032,DIS026,CAMP068,Healthy
+VIC0263,Anvi Gupta,73,Male,Odisha,District_A,9911444909,DIS018,CAMP009,Serious Injuries
+VIC0264,Amit Shah,1,Male,West Bengal,District_A,9270991398,DIS013,CAMP073,Serious Injuries
+VIC0265,Aditya Nair,47,Female,Gujarat,District_B,9723509597,DIS024,CAMP009,Serious Injuries
+VIC0266,Sai Nair,40,Male,Karnataka,District_B,9152202604,DIS036,CAMP074,Healthy
+VIC0267,Rohan Kumar,76,Male,Gujarat,District_B,9360465781,DIS006,CAMP072,Minor Injuries
+VIC0268,Krishna Verma,81,Female,Odisha,District_A,9784764938,DIS023,CAMP064,Healthy
+VIC0269,Amit Verma,36,Female,Uttar Pradesh,District_C,9870838994,DIS034,CAMP012,Serious Injuries
+VIC0270,Aarav Singh,21,Female,Maharashtra,District_B,9647981843,DIS043,CAMP054,Under Treatment
+VIC0271,Sunita Shah,39,Female,Tamil Nadu,District_A,9693257131,DIS013,CAMP005,Minor Injuries
+VIC0272,Myra Singh,33,Male,Uttar Pradesh,District_C,9594070070,DIS021,CAMP082,Healthy
+VIC0273,Sana Rao,39,Male,Uttar Pradesh,District_C,9136510915,DIS037,CAMP022,Under Treatment
+VIC0274,Arjun Patel,21,Female,Karnataka,District_B,9183849616,DIS029,CAMP045,Healthy
+VIC0275,Sanjay Yadav,26,Male,Uttar Pradesh,District_D,9308794677,DIS010,CAMP009,Minor Injuries
+VIC0276,Pooja Rao,48,Female,West Bengal,District_B,9244413834,DIS031,CAMP088,Healthy
+VIC0277,Priya Sharma,51,Male,Karnataka,District_A,9940001149,DIS006,CAMP001,Minor Injuries
+VIC0278,Sara Rao,31,Female,Gujarat,District_A,9671355214,DIS026,CAMP022,Healthy
+VIC0279,Aryan Pandey,3,Female,Odisha,District_B,9916084553,DIS017,CAMP074,Healthy
+VIC0280,Ananya Desai,58,Male,Odisha,District_C,9200605541,DIS042,CAMP051,Healthy
+VIC0281,Sana Yadav,28,Male,Uttar Pradesh,District_B,9513367080,DIS030,CAMP042,Healthy
+VIC0282,Aryan Mehta,19,Male,Maharashtra,District_B,9325899611,DIS023,CAMP085,Critical
+VIC0283,Pranav Nair,25,Female,Tamil Nadu,District_A,9453538357,DIS030,CAMP061,Under Treatment
+VIC0284,Aanya Menon,64,Female,Tamil Nadu,District_C,9996484393,DIS031,CAMP013,Minor Injuries
+VIC0285,Aryan Nair,65,Female,Maharashtra,District_D,9737190867,DIS001,CAMP062,Critical
+VIC0286,Sneha Mehta,20,Female,West Bengal,District_C,9117225695,DIS021,CAMP097,Minor Injuries
+VIC0287,Ananya Verma,48,Female,Odisha,District_B,9648797183,DIS039,CAMP012,Serious Injuries
+VIC0288,Shaurya Menon,57,Female,Bihar,District_A,9540044263,DIS011,CAMP042,Healthy
+VIC0289,Pranav Menon,17,Male,Maharashtra,District_C,9793461284,DIS044,CAMP002,Serious Injuries
+VIC0290,Isha Yadav,29,Male,Gujarat,District_A,9136603647,DIS002,CAMP020,Critical
+VIC0291,Anika Kumar,70,Female,Kerala,District_B,9711635903,DIS046,CAMP094,Serious Injuries
+VIC0292,Dhruv Nair,66,Female,Tamil Nadu,District_B,9546186239,DIS009,CAMP067,Healthy
+VIC0293,Aanya Kumar,18,Female,Maharashtra,District_D,9520551358,DIS022,CAMP038,Healthy
+VIC0294,Anvi Shah,77,Female,Karnataka,District_D,9795217547,DIS010,CAMP036,Minor Injuries
+VIC0295,Sai Gupta,65,Male,Tamil Nadu,District_A,9207577213,DIS042,CAMP051,Serious Injuries
+VIC0296,Sai Desai,23,Female,Tamil Nadu,District_C,9553563883,DIS032,CAMP024,Serious Injuries
+VIC0297,Shaurya Mehta,7,Male,Karnataka,District_C,9979906166,DIS019,CAMP037,Serious Injuries
+VIC0298,Rohan Rao,1,Female,West Bengal,District_B,9719454206,DIS036,CAMP088,Healthy
+VIC0299,Sara Nair,68,Male,Kerala,District_D,9117898523,DIS005,CAMP056,Under Treatment
+VIC0300,Aanya Kumar,13,Female,Tamil Nadu,District_A,9932657037,DIS002,CAMP089,Serious Injuries
+VIC0301,Sana Verma,76,Female,Kerala,District_A,9322155577,DIS004,CAMP058,Minor Injuries
+VIC0302,Pooja Rao,6,Female,Uttar Pradesh,District_C,9281083887,DIS049,CAMP053,Healthy
+VIC0303,Aarav Desai,36,Male,Odisha,District_C,9216370045,DIS028,CAMP071,Healthy
+VIC0304,Aanya Yadav,79,Female,Rajasthan,District_C,9955257322,DIS047,CAMP012,Healthy
+VIC0305,Ayaan Patel,45,Female,Kerala,District_C,9929842474,DIS011,CAMP078,Healthy
+VIC0306,Riya Mehta,47,Male,Tamil Nadu,District_B,9323592067,DIS002,CAMP023,Minor Injuries
+VIC0307,Rohan Patel,68,Female,Uttar Pradesh,District_A,9436020816,DIS003,CAMP045,Serious Injuries
+VIC0308,Sanjay Singh,64,Female,Odisha,District_A,9709292687,DIS044,CAMP064,Minor Injuries
+VIC0309,Aditya Desai,3,Male,Odisha,District_C,9325144945,DIS012,CAMP083,Healthy
+VIC0310,Sneha Gupta,56,Male,Karnataka,District_B,9138386920,DIS015,CAMP008,Critical
+VIC0311,Riya Nair,78,Female,Bihar,District_D,9374486654,DIS042,CAMP070,Healthy
+VIC0312,Aarav Pandey,51,Male,Rajasthan,District_B,9495844533,DIS040,CAMP032,Healthy
+VIC0313,Ayaan Shah,10,Male,Bihar,District_D,9907985495,DIS011,CAMP081,Under Treatment
+VIC0314,Riya Joshi,44,Female,Gujarat,District_C,9160709094,DIS018,CAMP002,Minor Injuries
+VIC0315,Aarav Mehta,55,Male,Tamil Nadu,District_B,9766678794,DIS032,CAMP024,Healthy
+VIC0316,Sana Singh,6,Male,Maharashtra,District_B,9626352561,DIS049,CAMP040,Healthy
+VIC0317,Myra Reddy,85,Female,Uttar Pradesh,District_C,9130419199,DIS032,CAMP013,Healthy
+VIC0318,Ananya Rao,22,Male,Odisha,District_A,9807512942,DIS016,CAMP071,Healthy
+VIC0319,Aryan Yadav,84,Male,Rajasthan,District_B,9583113217,DIS012,CAMP014,Healthy
+VIC0320,Dhruv Reddy,22,Female,Tamil Nadu,District_B,9719247338,DIS037,CAMP037,Under Treatment
+VIC0321,Amit Reddy,81,Male,Odisha,District_A,9590616023,DIS009,CAMP021,Healthy
+VIC0322,Pranav Verma,57,Male,Kerala,District_A,9544252218,DIS004,CAMP019,Serious Injuries
+VIC0323,Raj Joshi,40,Male,Maharashtra,District_A,9803894005,DIS031,CAMP081,Minor Injuries
+VIC0324,Shaurya Reddy,77,Female,West Bengal,District_A,9571195042,DIS024,CAMP088,Healthy
+VIC0325,Sara Patel,55,Male,Tamil Nadu,District_D,9239093439,DIS030,CAMP062,Under Treatment
+VIC0326,Sunita Mehta,79,Male,West Bengal,District_D,9654424944,DIS004,CAMP022,Minor Injuries
+VIC0327,Ishika Mehta,30,Female,Kerala,District_B,9681532204,DIS039,CAMP047,Healthy
+VIC0328,Sai Singh,73,Male,Tamil Nadu,District_A,9926418691,DIS043,CAMP091,Minor Injuries
+VIC0329,Sunita Shah,44,Female,Maharashtra,District_D,9467905815,DIS035,CAMP041,Critical
+VIC0330,Isha Singh,38,Male,Gujarat,District_B,9118330237,DIS034,CAMP013,Under Treatment
+VIC0331,Sai Menon,83,Female,Maharashtra,District_A,9699108663,DIS015,CAMP038,Healthy
+VIC0332,Aditya Sharma,30,Female,Maharashtra,District_D,9677067337,DIS048,CAMP056,Critical
+VIC0333,Pooja Desai,27,Female,Odisha,District_C,9674467777,DIS050,CAMP052,Healthy
+VIC0334,Ishita Nair,11,Female,West Bengal,District_B,9198999747,DIS034,CAMP024,Healthy
+VIC0335,Sana Shah,50,Male,West Bengal,District_A,9428640166,DIS039,CAMP030,Minor Injuries
+VIC0336,Pranav Mehta,83,Female,Bihar,District_D,9118499719,DIS002,CAMP036,Serious Injuries
+VIC0337,Ayaan Menon,13,Male,Uttar Pradesh,District_C,9237287022,DIS026,CAMP048,Healthy
+VIC0338,Krishna Pandey,48,Female,Rajasthan,District_B,9955202314,DIS017,CAMP041,Serious Injuries
+VIC0339,Sai Yadav,60,Female,Odisha,District_C,9734137597,DIS041,CAMP029,Healthy
+VIC0340,Krishna Shah,84,Female,Rajasthan,District_C,9687935104,DIS008,CAMP014,Healthy
+VIC0341,Vivaan Mehta,63,Female,Kerala,District_B,9760387532,DIS029,CAMP078,Under Treatment
+VIC0342,Sneha Yadav,9,Female,West Bengal,District_B,9445637178,DIS042,CAMP010,Healthy
+VIC0343,Arjun Desai,61,Male,Bihar,District_D,9936495969,DIS045,CAMP031,Critical
+VIC0344,Sana Reddy,62,Male,West Bengal,District_C,9130429605,DIS050,CAMP021,Minor Injuries
+VIC0345,Vihaan Mehta,50,Male,Bihar,District_A,9949021642,DIS043,CAMP001,Critical
+VIC0346,Ayaan Patel,47,Female,Maharashtra,District_C,9769123590,DIS049,CAMP057,Under Treatment
+VIC0347,Raj Singh,84,Male,Karnataka,District_B,9588570205,DIS030,CAMP063,Minor Injuries
+VIC0348,Sana Patel,58,Female,Maharashtra,District_A,9116952271,DIS029,CAMP007,Critical
+VIC0349,Ishita Mehta,40,Female,Bihar,District_A,9193498015,DIS045,CAMP079,Healthy
+VIC0350,Aanya Kumar,16,Female,Maharashtra,District_C,9210666381,DIS038,CAMP092,Healthy
+VIC0351,Ishika Nair,37,Male,Maharashtra,District_C,9498559679,DIS047,CAMP008,Under Treatment
+VIC0352,Riya Nair,77,Female,Gujarat,District_B,9215886632,DIS002,CAMP096,Minor Injuries
+VIC0353,Shaurya Reddy,39,Male,Maharashtra,District_C,9417772518,DIS022,CAMP023,Healthy
+VIC0354,Aarav Desai,42,Female,Gujarat,District_B,9426318252,DIS009,CAMP048,Minor Injuries
+VIC0355,Aryan Sharma,50,Female,Kerala,District_B,9276201725,DIS039,CAMP047,Critical
+VIC0356,Vihaan Gupta,36,Female,Kerala,District_C,9692778222,DIS023,CAMP011,Minor Injuries
+VIC0357,Isha Pandey,31,Male,Uttar Pradesh,District_B,9252916208,DIS027,CAMP001,Minor Injuries
+VIC0358,Pranav Mehta,54,Male,Uttar Pradesh,District_A,9509612005,DIS050,CAMP027,Healthy
+VIC0359,Aarav Nair,45,Male,Uttar Pradesh,District_C,9222796510,DIS023,CAMP079,Minor Injuries
+VIC0360,Ishita Verma,15,Male,Rajasthan,District_B,9743951134,DIS035,CAMP025,Healthy
+VIC0361,Sanjay Joshi,31,Male,Karnataka,District_D,9435537393,DIS023,CAMP086,Serious Injuries
+VIC0362,Aditya Patel,52,Male,Rajasthan,District_A,9239405230,DIS043,CAMP095,Healthy
+VIC0363,Sanjay Shah,40,Male,Kerala,District_D,9210517610,DIS023,CAMP057,Healthy
+VIC0364,Shaurya Patel,4,Female,Maharashtra,District_D,9255043340,DIS017,CAMP075,Healthy
+VIC0365,Ishika Nair,6,Female,Karnataka,District_B,9204888265,DIS026,CAMP055,Minor Injuries
+VIC0366,Ayaan Desai,53,Female,West Bengal,District_D,9302275657,DIS013,CAMP078,Minor Injuries
+VIC0367,Ishika Patel,52,Female,Maharashtra,District_C,9192989924,DIS010,CAMP023,Minor Injuries
+VIC0368,Anvi Menon,12,Male,Bihar,District_B,9163030461,DIS034,CAMP027,Healthy
+VIC0369,Vivaan Kumar,73,Male,Kerala,District_B,9107066135,DIS012,CAMP002,Minor Injuries
+VIC0370,Myra Gupta,47,Male,Uttar Pradesh,District_A,9928731385,DIS032,CAMP019,Minor Injuries
+VIC0371,Isha Reddy,16,Male,Gujarat,District_B,9675513804,DIS019,CAMP038,Serious Injuries
+VIC0372,Dhruv Menon,33,Male,Tamil Nadu,District_C,9871108648,DIS019,CAMP043,Healthy
+VIC0373,Vihaan Singh,12,Male,Bihar,District_D,9717045880,DIS040,CAMP060,Minor Injuries
+VIC0374,Diya Shah,84,Male,Odisha,District_C,9956838458,DIS011,CAMP009,Minor Injuries
+VIC0375,Ayaan Pandey,77,Male,Odisha,District_B,9863192396,DIS021,CAMP011,Healthy
+VIC0376,Krishna Reddy,49,Male,Tamil Nadu,District_D,9521442657,DIS005,CAMP010,Serious Injuries
+VIC0377,Priya Mehta,61,Male,Bihar,District_A,9619165878,DIS014,CAMP062,Under Treatment
+VIC0378,Myra Sharma,55,Male,Maharashtra,District_A,9465203322,DIS017,CAMP078,Critical
+VIC0379,Sneha Verma,3,Male,Rajasthan,District_C,9639300645,DIS036,CAMP070,Under Treatment
+VIC0380,Sanjay Reddy,61,Female,Uttar Pradesh,District_C,9627146443,DIS011,CAMP013,Under Treatment
+VIC0381,Sai Nair,35,Male,Bihar,District_A,9832182419,DIS002,CAMP010,Healthy
+VIC0382,Aryan Patel,9,Male,Tamil Nadu,District_A,9917362942,DIS034,CAMP047,Healthy
+VIC0383,Sunita Verma,37,Male,Rajasthan,District_D,9143875255,DIS034,CAMP003,Minor Injuries
+VIC0384,Ishita Desai,7,Female,Karnataka,District_A,9755000213,DIS008,CAMP043,Critical
+VIC0385,Shaurya Pandey,40,Male,Rajasthan,District_C,9925009494,DIS012,CAMP084,Serious Injuries
+VIC0386,Pooja Nair,46,Female,Karnataka,District_D,9456884710,DIS049,CAMP083,Healthy
+VIC0387,Krishna Joshi,36,Male,West Bengal,District_C,9499378575,DIS006,CAMP011,Minor Injuries
+VIC0388,Sana Kumar,27,Female,Kerala,District_A,9570496778,DIS032,CAMP043,Under Treatment
+VIC0389,Aarav Desai,61,Female,Rajasthan,District_D,9843221805,DIS042,CAMP007,Healthy
+VIC0390,Aryan Mehta,53,Female,Uttar Pradesh,District_D,9824891916,DIS045,CAMP074,Minor Injuries
+VIC0391,Ishita Sharma,81,Male,Bihar,District_C,9165710121,DIS023,CAMP045,Under Treatment
+VIC0392,Riya Gupta,65,Female,Kerala,District_C,9955563899,DIS015,CAMP095,Healthy
+VIC0393,Vivaan Desai,62,Male,Karnataka,District_C,9191361495,DIS048,CAMP039,Healthy
+VIC0394,Aryan Gupta,19,Male,Kerala,District_D,9644655921,DIS050,CAMP021,Healthy
+VIC0395,Vivaan Kumar,38,Female,Odisha,District_D,9524972120,DIS040,CAMP088,Minor Injuries
+VIC0396,Aarav Reddy,21,Female,Karnataka,District_A,9939678400,DIS031,CAMP063,Critical
+VIC0397,Ishita Nair,47,Male,Rajasthan,District_C,9751624912,DIS014,CAMP043,Minor Injuries
+VIC0398,Krishna Sharma,52,Male,Maharashtra,District_B,9632037794,DIS009,CAMP041,Healthy
+VIC0399,Sana Shah,66,Female,Maharashtra,District_A,9566730143,DIS009,CAMP063,Serious Injuries
+VIC0400,Ishika Singh,11,Male,Rajasthan,District_C,9846423103,DIS038,CAMP091,Minor Injuries
+VIC0401,Raj Pandey,18,Female,Kerala,District_C,9555113097,DIS019,CAMP082,Serious Injuries
+VIC0402,Aryan Joshi,20,Male,Uttar Pradesh,District_C,9854128757,DIS006,CAMP077,Minor Injuries
+VIC0403,Raj Sharma,82,Male,Uttar Pradesh,District_A,9819096842,DIS044,CAMP045,Healthy
+VIC0404,Priya Sharma,34,Female,Gujarat,District_B,9503487693,DIS041,CAMP008,Under Treatment
+VIC0405,Vihaan Menon,53,Male,Maharashtra,District_B,9192373429,DIS033,CAMP048,Minor Injuries
+VIC0406,Anika Sharma,59,Male,Karnataka,District_D,9731081518,DIS018,CAMP094,Serious Injuries
+VIC0407,Ishita Rao,32,Female,Odisha,District_B,9732287165,DIS048,CAMP037,Minor Injuries
+VIC0408,Anika Yadav,30,Male,Tamil Nadu,District_B,9488150518,DIS049,CAMP080,Minor Injuries
+VIC0409,Raj Menon,34,Female,Maharashtra,District_B,9165242237,DIS008,CAMP087,Under Treatment
+VIC0410,Vihaan Patel,5,Female,Uttar Pradesh,District_B,9170100730,DIS023,CAMP072,Critical
+VIC0411,Vihaan Mehta,83,Male,Karnataka,District_C,9387975435,DIS022,CAMP097,Under Treatment
+VIC0412,Sara Rao,30,Male,West Bengal,District_C,9900059469,DIS008,CAMP041,Healthy
+VIC0413,Vihaan Nair,84,Female,Karnataka,District_C,9544549734,DIS025,CAMP025,Healthy
+VIC0414,Anika Singh,51,Female,Odisha,District_B,9480619027,DIS050,CAMP064,Under Treatment
+VIC0415,Anika Pandey,10,Female,West Bengal,District_A,9471747194,DIS021,CAMP014,Under Treatment
+VIC0416,Vivaan Verma,11,Male,Karnataka,District_A,9538743891,DIS049,CAMP033,Critical
+VIC0417,Diya Shah,60,Female,Kerala,District_C,9331366405,DIS034,CAMP061,Critical
+VIC0418,Arjun Nair,85,Male,Kerala,District_B,9369184650,DIS010,CAMP027,Serious Injuries
+VIC0419,Aarav Sharma,73,Female,Odisha,District_C,9438590973,DIS003,CAMP089,Minor Injuries
+VIC0420,Pranav Kumar,67,Female,Rajasthan,District_B,9883736146,DIS030,CAMP071,Minor Injuries
+VIC0421,Sai Desai,33,Female,Bihar,District_B,9655329013,DIS004,CAMP010,Healthy
+VIC0422,Aditya Singh,6,Female,Rajasthan,District_C,9323164885,DIS048,CAMP041,Critical
+VIC0423,Myra Verma,18,Male,Tamil Nadu,District_B,9418179375,DIS030,CAMP089,Serious Injuries
+VIC0424,Ishika Singh,85,Male,Rajasthan,District_A,9190351753,DIS009,CAMP058,Critical
+VIC0425,Isha Reddy,24,Female,Maharashtra,District_B,9441322854,DIS012,CAMP031,Healthy
+VIC0426,Rohan Verma,78,Male,Odisha,District_A,9170846461,DIS012,CAMP081,Healthy
+VIC0427,Anika Rao,47,Male,Gujarat,District_C,9514776616,DIS036,CAMP060,Under Treatment
+VIC0428,Sara Verma,62,Male,Rajasthan,District_A,9683099325,DIS023,CAMP074,Minor Injuries
+VIC0429,Sanjay Singh,1,Female,Gujarat,District_A,9413701544,DIS038,CAMP035,Healthy
+VIC0430,Anika Menon,5,Male,Maharashtra,District_C,9656485468,DIS041,CAMP094,Serious Injuries
+VIC0431,Diya Sharma,3,Male,Karnataka,District_C,9263014173,DIS029,CAMP087,Critical
+VIC0432,Sanjay Menon,17,Male,Rajasthan,District_D,9754227115,DIS048,CAMP030,Healthy
+VIC0433,Myra Gupta,9,Male,Rajasthan,District_B,9738791153,DIS029,CAMP014,Minor Injuries
+VIC0434,Anvi Mehta,40,Male,Karnataka,District_C,9801197159,DIS004,CAMP095,Healthy
+VIC0435,Pranav Kumar,74,Female,Gujarat,District_D,9316210688,DIS042,CAMP011,Healthy
+VIC0436,Myra Verma,37,Female,Odisha,District_D,9210377553,DIS034,CAMP011,Healthy
+VIC0437,Vivaan Patel,10,Female,Uttar Pradesh,District_C,9383186906,DIS010,CAMP038,Minor Injuries
+VIC0438,Sara Joshi,71,Female,Uttar Pradesh,District_A,9649899826,DIS047,CAMP022,Minor Injuries
+VIC0439,Raj Reddy,85,Female,Maharashtra,District_B,9492444596,DIS009,CAMP058,Critical
+VIC0440,Sneha Kumar,59,Female,Gujarat,District_B,9100973487,DIS005,CAMP057,Critical
+VIC0441,Priya Joshi,66,Female,West Bengal,District_A,9827255933,DIS016,CAMP068,Healthy
+VIC0442,Pranav Rao,34,Male,Kerala,District_B,9148561764,DIS006,CAMP001,Serious Injuries
+VIC0443,Arjun Gupta,83,Male,Uttar Pradesh,District_C,9296287270,DIS032,CAMP032,Under Treatment
+VIC0444,Aanya Kumar,69,Male,Kerala,District_D,9646950612,DIS012,CAMP067,Minor Injuries
+VIC0445,Pranav Patel,67,Female,Karnataka,District_A,9866418010,DIS037,CAMP075,Under Treatment
+VIC0446,Rohan Rao,24,Male,Bihar,District_D,9532331758,DIS042,CAMP084,Minor Injuries
+VIC0447,Riya Singh,4,Female,Uttar Pradesh,District_C,9581466146,DIS004,CAMP032,Serious Injuries
+VIC0448,Sneha Menon,17,Male,West Bengal,District_C,9598135730,DIS021,CAMP024,Healthy
+VIC0449,Arjun Nair,55,Female,Odisha,District_D,9171776388,DIS030,CAMP097,Minor Injuries
+VIC0450,Rohan Pandey,64,Male,Bihar,District_D,9599842857,DIS026,CAMP034,Minor Injuries
+VIC0451,Sara Reddy,41,Male,Rajasthan,District_A,9436258320,DIS014,CAMP094,Serious Injuries
+VIC0452,Aarav Pandey,42,Female,Tamil Nadu,District_D,9301728859,DIS040,CAMP023,Minor Injuries
+VIC0453,Pranav Sharma,14,Male,Bihar,District_C,9490055721,DIS026,CAMP027,Minor Injuries
+VIC0454,Vivaan Joshi,80,Female,Tamil Nadu,District_C,9218441221,DIS016,CAMP075,Critical
+VIC0455,Riya Sharma,46,Female,Gujarat,District_C,9212358792,DIS008,CAMP062,Serious Injuries
+VIC0456,Sana Joshi,12,Female,Kerala,District_B,9615532221,DIS030,CAMP055,Serious Injuries
+VIC0457,Sunita Rao,65,Female,Bihar,District_C,9724418568,DIS005,CAMP021,Minor Injuries
+VIC0458,Pooja Sharma,41,Female,Maharashtra,District_D,9395358122,DIS016,CAMP027,Under Treatment
+VIC0459,Vihaan Joshi,50,Female,Bihar,District_D,9326627422,DIS047,CAMP069,Healthy
+VIC0460,Anika Desai,14,Male,Kerala,District_C,9443976723,DIS030,CAMP074,Minor Injuries
+VIC0461,Sunita Shah,85,Female,Tamil Nadu,District_D,9758287540,DIS023,CAMP046,Minor Injuries
+VIC0462,Arjun Desai,3,Female,Uttar Pradesh,District_D,9170601375,DIS026,CAMP036,Healthy
+VIC0463,Pranav Shah,11,Female,Karnataka,District_D,9720683554,DIS046,CAMP079,Healthy
+VIC0464,Amit Joshi,44,Male,West Bengal,District_B,9180178109,DIS048,CAMP011,Minor Injuries
+VIC0465,Vihaan Reddy,17,Male,West Bengal,District_A,9222850834,DIS036,CAMP035,Serious Injuries
+VIC0466,Raj Mehta,1,Male,Odisha,District_D,9306406618,DIS040,CAMP024,Critical
+VIC0467,Sana Patel,2,Female,Tamil Nadu,District_D,9948198492,DIS044,CAMP010,Minor Injuries
+VIC0468,Raj Shah,42,Female,Tamil Nadu,District_B,9379817777,DIS027,CAMP098,Healthy
+VIC0469,Anvi Joshi,69,Male,West Bengal,District_B,9542364382,DIS040,CAMP049,Minor Injuries
+VIC0470,Aryan Reddy,70,Male,Rajasthan,District_D,9843080314,DIS033,CAMP091,Serious Injuries
+VIC0471,Ananya Nair,34,Female,Gujarat,District_D,9927065218,DIS050,CAMP015,Minor Injuries
+VIC0472,Vivaan Joshi,12,Female,Odisha,District_B,9856221022,DIS010,CAMP031,Serious Injuries
+VIC0473,Ishita Sharma,15,Male,Gujarat,District_B,9996714002,DIS020,CAMP080,Minor Injuries
+VIC0474,Ayaan Shah,63,Female,Bihar,District_A,9533917983,DIS008,CAMP052,Minor Injuries
+VIC0475,Pranav Sharma,3,Female,West Bengal,District_D,9535375074,DIS032,CAMP024,Healthy
+VIC0476,Sunita Gupta,72,Male,Gujarat,District_A,9862725056,DIS025,CAMP021,Under Treatment
+VIC0477,Sneha Shah,47,Female,Uttar Pradesh,District_A,9641644947,DIS005,CAMP017,Healthy
+VIC0478,Pranav Patel,77,Male,Tamil Nadu,District_A,9591081951,DIS047,CAMP008,Serious Injuries
+VIC0479,Aditya Shah,3,Female,Kerala,District_C,9912655563,DIS032,CAMP100,Serious Injuries
+VIC0480,Sara Kumar,70,Male,West Bengal,District_C,9917971637,DIS048,CAMP067,Serious Injuries
+VIC0481,Pooja Rao,35,Male,Odisha,District_A,9836598596,DIS046,CAMP064,Minor Injuries
+VIC0482,Raj Menon,40,Male,Karnataka,District_D,9845202637,DIS032,CAMP085,Healthy
+VIC0483,Ishita Desai,61,Female,Karnataka,District_A,9410898990,DIS035,CAMP002,Serious Injuries
+VIC0484,Aarav Rao,26,Female,Uttar Pradesh,District_A,9141019733,DIS013,CAMP005,Minor Injuries
+VIC0485,Sai Mehta,50,Female,Gujarat,District_B,9625520983,DIS033,CAMP057,Under Treatment
+VIC0486,Pranav Gupta,70,Male,Karnataka,District_B,9850794134,DIS031,CAMP032,Minor Injuries
+VIC0487,Sanjay Sharma,46,Male,Kerala,District_C,9812623515,DIS037,CAMP017,Healthy
+VIC0488,Sanjay Verma,58,Male,Odisha,District_B,9332037586,DIS002,CAMP002,Serious Injuries
+VIC0489,Anvi Nair,58,Male,West Bengal,District_B,9984919613,DIS029,CAMP010,Serious Injuries
+VIC0490,Aarav Kumar,62,Female,Bihar,District_C,9928672244,DIS048,CAMP005,Minor Injuries
+VIC0491,Riya Menon,44,Female,Kerala,District_B,9934827846,DIS048,CAMP006,Minor Injuries
+VIC0492,Aditya Verma,73,Male,Maharashtra,District_C,9311868759,DIS031,CAMP058,Critical
+VIC0493,Ishita Patel,25,Male,Rajasthan,District_A,9997576265,DIS040,CAMP023,Healthy
+VIC0494,Ananya Mehta,19,Male,Odisha,District_B,9982985922,DIS021,CAMP065,Minor Injuries
+VIC0495,Ishika Gupta,14,Female,Maharashtra,District_A,9741393854,DIS028,CAMP042,Healthy
+VIC0496,Aditya Kumar,52,Male,Gujarat,District_B,9559132646,DIS029,CAMP036,Healthy
+VIC0497,Myra Pandey,82,Male,Maharashtra,District_A,9232889759,DIS016,CAMP052,Serious Injuries
+VIC0498,Sanjay Kumar,66,Male,Odisha,District_D,9555046593,DIS014,CAMP032,Under Treatment
+VIC0499,Sneha Pandey,41,Male,Gujarat,District_D,9721901938,DIS039,CAMP030,Minor Injuries
+VIC0500,Shaurya Singh,31,Male,Rajasthan,District_C,9848896755,DIS027,CAMP051,Minor Injuries
+VIC0501,Riya Kumar,29,Male,West Bengal,District_B,9846478538,DIS019,CAMP042,Minor Injuries
+VIC0502,Vivaan Yadav,60,Male,Kerala,District_B,9892798520,DIS001,CAMP021,Healthy
+VIC0503,Aarav Gupta,11,Male,Odisha,District_B,9543560725,DIS042,CAMP029,Healthy
+VIC0504,Sana Sharma,39,Female,Kerala,District_C,9364105109,DIS041,CAMP003,Serious Injuries
+VIC0505,Aanya Singh,20,Female,Karnataka,District_C,9669970438,DIS008,CAMP078,Serious Injuries
+VIC0506,Riya Verma,75,Male,Karnataka,District_D,9722130843,DIS037,CAMP078,Minor Injuries
+VIC0507,Sanjay Menon,50,Female,Maharashtra,District_C,9412246636,DIS038,CAMP099,Minor Injuries
+VIC0508,Ayaan Nair,64,Female,Kerala,District_D,9620271806,DIS033,CAMP067,Under Treatment
+VIC0509,Sana Kumar,66,Female,Tamil Nadu,District_B,9724683596,DIS034,CAMP039,Under Treatment
+VIC0510,Sneha Kumar,4,Female,Maharashtra,District_D,9563142714,DIS017,CAMP039,Under Treatment
+VIC0511,Aryan Shah,54,Female,Bihar,District_C,9247159696,DIS019,CAMP025,Minor Injuries
+VIC0512,Aarav Kumar,51,Male,Karnataka,District_A,9469055155,DIS050,CAMP057,Serious Injuries
+VIC0513,Aarav Patel,83,Male,Kerala,District_B,9242396743,DIS004,CAMP077,Healthy
+VIC0514,Isha Desai,9,Female,Rajasthan,District_C,9195022042,DIS008,CAMP064,Serious Injuries
+VIC0515,Isha Mehta,79,Female,Kerala,District_B,9311249358,DIS016,CAMP091,Minor Injuries
+VIC0516,Sunita Patel,58,Female,Odisha,District_D,9576851009,DIS004,CAMP077,Healthy
+VIC0517,Ishita Rao,3,Female,Uttar Pradesh,District_B,9915242389,DIS004,CAMP057,Minor Injuries
+VIC0518,Aanya Sharma,27,Male,Tamil Nadu,District_A,9414162341,DIS002,CAMP035,Healthy
+VIC0519,Shaurya Pandey,23,Male,West Bengal,District_C,9691456803,DIS017,CAMP061,Critical
+VIC0520,Sneha Sharma,58,Male,Kerala,District_C,9132286567,DIS004,CAMP096,Healthy
+VIC0521,Krishna Kumar,56,Male,Odisha,District_B,9593676075,DIS017,CAMP048,Under Treatment
+VIC0522,Ishika Mehta,34,Male,Uttar Pradesh,District_B,9465398820,DIS036,CAMP044,Critical
+VIC0523,Pranav Yadav,57,Female,Bihar,District_C,9796296221,DIS046,CAMP013,Healthy
+VIC0524,Sara Verma,62,Female,Karnataka,District_D,9901167736,DIS016,CAMP093,Minor Injuries
+VIC0525,Isha Patel,69,Male,Rajasthan,District_C,9490628429,DIS030,CAMP043,Under Treatment
+VIC0526,Riya Desai,62,Female,Rajasthan,District_B,9751784753,DIS008,CAMP100,Critical
+VIC0527,Isha Sharma,27,Female,Karnataka,District_A,9578163668,DIS044,CAMP031,Critical
+VIC0528,Ananya Gupta,85,Female,West Bengal,District_B,9579486235,DIS030,CAMP013,Healthy
+VIC0529,Ishita Joshi,59,Female,Uttar Pradesh,District_C,9337103775,DIS006,CAMP082,Minor Injuries
+VIC0530,Ishika Gupta,59,Female,Gujarat,District_D,9172080882,DIS031,CAMP085,Healthy
+VIC0531,Sanjay Shah,31,Female,Kerala,District_D,9843380167,DIS027,CAMP028,Serious Injuries
+VIC0532,Aditya Shah,52,Female,Tamil Nadu,District_C,9651083749,DIS021,CAMP078,Under Treatment
+VIC0533,Arjun Pandey,65,Female,Karnataka,District_B,9171947573,DIS043,CAMP040,Healthy
+VIC0534,Ishita Patel,45,Male,Tamil Nadu,District_B,9144083577,DIS037,CAMP070,Healthy
+VIC0535,Ayaan Patel,29,Female,West Bengal,District_C,9691791590,DIS047,CAMP030,Critical
+VIC0536,Riya Sharma,33,Female,Bihar,District_A,9721946185,DIS027,CAMP081,Healthy
+VIC0537,Shaurya Joshi,33,Male,Tamil Nadu,District_D,9306531093,DIS038,CAMP059,Minor Injuries
+VIC0538,Priya Shah,50,Female,Uttar Pradesh,District_C,9270026185,DIS011,CAMP091,Critical
+VIC0539,Ananya Desai,78,Female,Rajasthan,District_C,9726285881,DIS020,CAMP098,Under Treatment
+VIC0540,Amit Pandey,69,Male,Kerala,District_C,9975912827,DIS018,CAMP066,Healthy
+VIC0541,Sara Pandey,22,Female,Karnataka,District_D,9329087459,DIS043,CAMP044,Healthy
+VIC0542,Dhruv Pandey,15,Male,Bihar,District_D,9703308965,DIS010,CAMP036,Under Treatment
+VIC0543,Shaurya Pandey,74,Female,Maharashtra,District_D,9202213742,DIS046,CAMP013,Serious Injuries
+VIC0544,Aryan Shah,66,Male,Odisha,District_B,9663967073,DIS035,CAMP096,Serious Injuries
+VIC0545,Ishika Sharma,30,Male,Gujarat,District_B,9189829169,DIS031,CAMP028,Minor Injuries
+VIC0546,Aditya Yadav,61,Female,Odisha,District_B,9561415778,DIS017,CAMP031,Healthy
+VIC0547,Pooja Joshi,46,Male,Maharashtra,District_C,9199500433,DIS020,CAMP027,Under Treatment
+VIC0548,Isha Yadav,2,Male,Gujarat,District_A,9672835187,DIS032,CAMP050,Serious Injuries
+VIC0549,Raj Sharma,69,Male,Gujarat,District_C,9792138026,DIS027,CAMP049,Serious Injuries
+VIC0550,Vihaan Shah,55,Female,Gujarat,District_B,9217546723,DIS007,CAMP094,Healthy
+VIC0551,Anika Menon,73,Female,Rajasthan,District_B,9703201390,DIS020,CAMP029,Healthy
+VIC0552,Anika Desai,1,Male,Gujarat,District_C,9185248199,DIS003,CAMP098,Under Treatment
+VIC0553,Ananya Yadav,37,Male,Gujarat,District_A,9625647176,DIS011,CAMP045,Healthy
+VIC0554,Vivaan Mehta,19,Female,Odisha,District_A,9438281280,DIS036,CAMP023,Minor Injuries
+VIC0555,Vivaan Sharma,48,Male,Karnataka,District_D,9667276139,DIS033,CAMP061,Under Treatment
+VIC0556,Ishika Nair,55,Female,Bihar,District_A,9973211201,DIS050,CAMP079,Minor Injuries
+VIC0557,Aditya Verma,63,Female,West Bengal,District_D,9487199148,DIS003,CAMP087,Under Treatment
+VIC0558,Arjun Kumar,1,Male,Tamil Nadu,District_B,9449664952,DIS005,CAMP023,Under Treatment
+VIC0559,Ananya Joshi,82,Female,Bihar,District_D,9651881017,DIS031,CAMP011,Minor Injuries
+VIC0560,Sara Singh,84,Female,Rajasthan,District_A,9938724987,DIS027,CAMP024,Healthy
+VIC0561,Ishika Patel,43,Female,West Bengal,District_C,9552481461,DIS013,CAMP039,Healthy
+VIC0562,Sneha Rao,12,Male,Tamil Nadu,District_C,9938071659,DIS048,CAMP037,Healthy
+VIC0563,Raj Menon,83,Male,Maharashtra,District_D,9805069348,DIS046,CAMP059,Under Treatment
+VIC0564,Amit Gupta,29,Female,West Bengal,District_C,9114921302,DIS023,CAMP066,Serious Injuries
+VIC0565,Aanya Reddy,73,Female,Tamil Nadu,District_D,9336137744,DIS019,CAMP016,Under Treatment
+VIC0566,Aanya Mehta,16,Male,Maharashtra,District_B,9781095506,DIS039,CAMP058,Healthy
+VIC0567,Rohan Gupta,9,Female,West Bengal,District_A,9981895793,DIS036,CAMP003,Minor Injuries
+VIC0568,Dhruv Joshi,54,Female,Gujarat,District_C,9438592834,DIS015,CAMP037,Healthy
+VIC0569,Sanjay Patel,81,Male,Tamil Nadu,District_A,9308747727,DIS050,CAMP002,Minor Injuries
+VIC0570,Riya Nair,71,Female,Tamil Nadu,District_A,9862049377,DIS023,CAMP040,Healthy
+VIC0571,Arjun Desai,10,Female,Uttar Pradesh,District_D,9742405323,DIS050,CAMP080,Serious Injuries
+VIC0572,Vivaan Menon,64,Male,Uttar Pradesh,District_B,9479828793,DIS005,CAMP037,Healthy
+VIC0573,Ananya Singh,23,Female,Maharashtra,District_D,9740346366,DIS046,CAMP043,Healthy
+VIC0574,Priya Menon,48,Female,Odisha,District_C,9977233626,DIS018,CAMP072,Healthy
+VIC0575,Ayaan Yadav,65,Male,Maharashtra,District_B,9426115075,DIS016,CAMP079,Healthy
+VIC0576,Ayaan Shah,49,Female,Bihar,District_A,9576641230,DIS004,CAMP041,Healthy
+VIC0577,Rohan Singh,48,Female,Bihar,District_C,9777688244,DIS049,CAMP098,Healthy
+VIC0578,Ishita Patel,77,Female,Maharashtra,District_C,9713603634,DIS041,CAMP085,Critical
+VIC0579,Sunita Reddy,60,Female,Bihar,District_C,9910384082,DIS033,CAMP033,Under Treatment
+VIC0580,Vihaan Patel,47,Male,Bihar,District_C,9901443604,DIS042,CAMP075,Minor Injuries
+VIC0581,Vihaan Patel,41,Female,Odisha,District_C,9166346168,DIS039,CAMP082,Healthy
+VIC0582,Ayaan Yadav,85,Male,Karnataka,District_D,9917464702,DIS026,CAMP066,Under Treatment
+VIC0583,Anika Patel,41,Male,Kerala,District_C,9993248658,DIS039,CAMP037,Healthy
+VIC0584,Diya Shah,80,Male,Bihar,District_A,9391215201,DIS035,CAMP073,Healthy
+VIC0585,Ishika Pandey,78,Male,Rajasthan,District_B,9126397943,DIS034,CAMP002,Minor Injuries
+VIC0586,Anika Joshi,53,Female,Uttar Pradesh,District_D,9646751143,DIS025,CAMP082,Healthy
+VIC0587,Ananya Yadav,59,Female,Maharashtra,District_B,9227583199,DIS042,CAMP088,Serious Injuries
+VIC0588,Dhruv Joshi,43,Male,Kerala,District_C,9518906117,DIS022,CAMP064,Under Treatment
+VIC0589,Sneha Reddy,38,Male,Uttar Pradesh,District_B,9987568577,DIS020,CAMP008,Minor Injuries
+VIC0590,Pooja Kumar,17,Female,Maharashtra,District_C,9190783198,DIS017,CAMP070,Under Treatment
+VIC0591,Krishna Singh,65,Female,Odisha,District_B,9683135763,DIS028,CAMP070,Healthy
+VIC0592,Raj Menon,2,Male,Bihar,District_C,9561719754,DIS047,CAMP100,Minor Injuries
+VIC0593,Shaurya Sharma,45,Female,Bihar,District_D,9833762628,DIS007,CAMP052,Minor Injuries
+VIC0594,Myra Rao,60,Male,Gujarat,District_A,9200271537,DIS014,CAMP029,Minor Injuries
+VIC0595,Pooja Sharma,25,Female,Gujarat,District_D,9738641970,DIS016,CAMP019,Serious Injuries
+VIC0596,Vivaan Reddy,6,Male,Gujarat,District_A,9375409131,DIS021,CAMP007,Under Treatment
+VIC0597,Sara Pandey,3,Male,Rajasthan,District_A,9555732776,DIS018,CAMP066,Minor Injuries
+VIC0598,Diya Desai,28,Female,Tamil Nadu,District_C,9416004789,DIS043,CAMP052,Minor Injuries
+VIC0599,Sunita Nair,53,Male,Rajasthan,District_D,9311836332,DIS048,CAMP036,Serious Injuries
+VIC0600,Aryan Sharma,77,Male,Odisha,District_B,9833926073,DIS005,CAMP083,Healthy
+VIC0601,Raj Shah,36,Female,Gujarat,District_D,9805935428,DIS050,CAMP028,Healthy
+VIC0602,Aanya Desai,72,Male,Gujarat,District_A,9858382644,DIS005,CAMP091,Under Treatment
+VIC0603,Ishita Joshi,77,Male,Gujarat,District_C,9313759730,DIS046,CAMP064,Critical
+VIC0604,Pooja Desai,4,Female,Uttar Pradesh,District_B,9761476558,DIS007,CAMP015,Serious Injuries
+VIC0605,Isha Kumar,13,Female,Maharashtra,District_B,9496029751,DIS036,CAMP046,Critical
+VIC0606,Krishna Rao,15,Female,Gujarat,District_C,9778691475,DIS022,CAMP011,Critical
+VIC0607,Sneha Reddy,7,Female,Rajasthan,District_B,9168010449,DIS014,CAMP026,Healthy
+VIC0608,Pranav Gupta,74,Female,Maharashtra,District_C,9766176685,DIS011,CAMP058,Critical
+VIC0609,Krishna Desai,68,Male,Odisha,District_C,9579032796,DIS047,CAMP015,Critical
+VIC0610,Sara Yadav,23,Female,Odisha,District_A,9821942942,DIS024,CAMP076,Serious Injuries
+VIC0611,Sai Pandey,79,Male,Rajasthan,District_C,9308360749,DIS050,CAMP001,Minor Injuries
+VIC0612,Vivaan Gupta,49,Female,West Bengal,District_D,9239774381,DIS020,CAMP019,Serious Injuries
+VIC0613,Ishita Pandey,63,Female,Gujarat,District_A,9995094125,DIS016,CAMP038,Serious Injuries
+VIC0614,Dhruv Kumar,10,Female,Gujarat,District_A,9558616598,DIS023,CAMP028,Minor Injuries
+VIC0615,Priya Pandey,18,Male,West Bengal,District_C,9377932775,DIS046,CAMP056,Critical
+VIC0616,Sunita Rao,59,Female,Gujarat,District_C,9113810292,DIS012,CAMP061,Serious Injuries
+VIC0617,Rohan Shah,70,Female,Rajasthan,District_C,9187874374,DIS018,CAMP001,Healthy
+VIC0618,Sara Nair,51,Male,West Bengal,District_A,9703370953,DIS014,CAMP005,Critical
+VIC0619,Krishna Yadav,63,Male,Kerala,District_D,9508967770,DIS046,CAMP036,Serious Injuries
+VIC0620,Diya Verma,16,Male,Bihar,District_A,9807489728,DIS036,CAMP019,Serious Injuries
+VIC0621,Shaurya Yadav,67,Female,Bihar,District_A,9162642132,DIS028,CAMP016,Healthy
+VIC0622,Ishita Gupta,59,Female,Karnataka,District_B,9607840138,DIS045,CAMP030,Serious Injuries
+VIC0623,Sanjay Rao,54,Female,Bihar,District_A,9165017642,DIS031,CAMP057,Minor Injuries
+VIC0624,Sneha Singh,77,Female,Maharashtra,District_B,9663281854,DIS046,CAMP075,Healthy
+VIC0625,Krishna Verma,61,Male,Kerala,District_D,9800856101,DIS006,CAMP045,Minor Injuries
+VIC0626,Ishita Gupta,12,Male,West Bengal,District_C,9334184130,DIS026,CAMP017,Critical
+VIC0627,Ananya Gupta,80,Male,Karnataka,District_D,9942386497,DIS004,CAMP094,Serious Injuries
+VIC0628,Ananya Singh,58,Female,Rajasthan,District_B,9953732350,DIS011,CAMP089,Serious Injuries
+VIC0629,Ishita Joshi,25,Female,Kerala,District_D,9629908254,DIS017,CAMP063,Serious Injuries
+VIC0630,Sana Nair,18,Female,Tamil Nadu,District_A,9775935302,DIS014,CAMP020,Under Treatment
+VIC0631,Rohan Desai,7,Male,Rajasthan,District_D,9721577657,DIS019,CAMP039,Critical
+VIC0632,Aanya Joshi,81,Male,Gujarat,District_D,9740813354,DIS025,CAMP042,Under Treatment
+VIC0633,Sneha Shah,52,Male,Bihar,District_B,9125887535,DIS046,CAMP007,Minor Injuries
+VIC0634,Aryan Reddy,51,Female,Bihar,District_D,9140160258,DIS014,CAMP043,Serious Injuries
+VIC0635,Arjun Nair,69,Female,Gujarat,District_C,9850707553,DIS049,CAMP064,Healthy
+VIC0636,Riya Patel,54,Female,Maharashtra,District_B,9428511026,DIS018,CAMP096,Healthy
+VIC0637,Rohan Rao,26,Female,Odisha,District_C,9634845040,DIS031,CAMP072,Healthy
+VIC0638,Ishika Pandey,1,Female,Tamil Nadu,District_D,9872456045,DIS013,CAMP062,Under Treatment
+VIC0639,Rohan Shah,77,Female,West Bengal,District_B,9895225234,DIS025,CAMP029,Healthy
+VIC0640,Pranav Patel,70,Female,Gujarat,District_C,9773647056,DIS008,CAMP048,Serious Injuries
+VIC0641,Sneha Joshi,43,Female,Odisha,District_D,9331173962,DIS009,CAMP082,Healthy
+VIC0642,Sanjay Kumar,32,Male,Maharashtra,District_D,9925730198,DIS033,CAMP099,Under Treatment
+VIC0643,Dhruv Yadav,76,Male,Kerala,District_C,9588005818,DIS049,CAMP093,Minor Injuries
+VIC0644,Aryan Rao,50,Female,Odisha,District_C,9275593437,DIS011,CAMP096,Minor Injuries
+VIC0645,Sara Sharma,62,Male,Uttar Pradesh,District_C,9914308263,DIS042,CAMP045,Minor Injuries
+VIC0646,Raj Kumar,22,Female,Karnataka,District_B,9596149177,DIS027,CAMP075,Under Treatment
+VIC0647,Isha Gupta,6,Female,Maharashtra,District_D,9599429110,DIS047,CAMP005,Minor Injuries
+VIC0648,Amit Menon,83,Male,Uttar Pradesh,District_C,9636545770,DIS037,CAMP031,Healthy
+VIC0649,Ishika Reddy,3,Female,Rajasthan,District_A,9313822306,DIS047,CAMP034,Minor Injuries
+VIC0650,Ishita Gupta,59,Female,Kerala,District_A,9224405092,DIS027,CAMP058,Healthy
+VIC0651,Riya Shah,58,Male,Gujarat,District_A,9564942611,DIS008,CAMP025,Under Treatment
+VIC0652,Aditya Joshi,56,Female,West Bengal,District_D,9719790217,DIS004,CAMP057,Healthy
+VIC0653,Vihaan Joshi,10,Female,Rajasthan,District_B,9422665408,DIS049,CAMP004,Minor Injuries
+VIC0654,Isha Yadav,48,Female,West Bengal,District_B,9140211285,DIS012,CAMP096,Minor Injuries
+VIC0655,Priya Sharma,72,Male,West Bengal,District_A,9410858445,DIS005,CAMP023,Under Treatment
+VIC0656,Aanya Menon,44,Male,West Bengal,District_A,9301536595,DIS009,CAMP099,Healthy
+VIC0657,Ishita Kumar,63,Female,Kerala,District_C,9368727197,DIS042,CAMP046,Minor Injuries
+VIC0658,Sai Joshi,68,Male,Odisha,District_D,9960358253,DIS018,CAMP012,Minor Injuries
+VIC0659,Isha Rao,80,Female,Kerala,District_A,9969037898,DIS049,CAMP017,Healthy
+VIC0660,Vihaan Reddy,74,Male,Rajasthan,District_A,9579642041,DIS033,CAMP064,Under Treatment
+VIC0661,Arjun Desai,73,Male,Tamil Nadu,District_D,9996131710,DIS033,CAMP089,Minor Injuries
+VIC0662,Ishika Reddy,37,Female,Rajasthan,District_A,9838435975,DIS049,CAMP078,Serious Injuries
+VIC0663,Aarav Kumar,50,Male,West Bengal,District_B,9695894161,DIS021,CAMP063,Healthy
+VIC0664,Shaurya Patel,47,Female,Odisha,District_B,9826043686,DIS004,CAMP067,Under Treatment
+VIC0665,Raj Sharma,60,Male,Bihar,District_B,9348249606,DIS002,CAMP084,Serious Injuries
+VIC0666,Amit Gupta,66,Male,Gujarat,District_B,9831505976,DIS004,CAMP069,Minor Injuries
+VIC0667,Aanya Desai,38,Male,Karnataka,District_B,9617535193,DIS040,CAMP080,Critical
+VIC0668,Dhruv Sharma,14,Male,Tamil Nadu,District_C,9601091652,DIS048,CAMP056,Healthy
+VIC0669,Ishita Singh,50,Female,Bihar,District_A,9387888290,DIS003,CAMP030,Serious Injuries
+VIC0670,Sanjay Joshi,47,Male,Kerala,District_B,9791349795,DIS011,CAMP008,Serious Injuries
+VIC0671,Anvi Yadav,6,Male,West Bengal,District_D,9805876082,DIS037,CAMP094,Serious Injuries
+VIC0672,Raj Yadav,64,Female,Odisha,District_C,9702861569,DIS004,CAMP034,Healthy
+VIC0673,Raj Gupta,16,Female,Tamil Nadu,District_A,9309077046,DIS048,CAMP018,Under Treatment
+VIC0674,Vivaan Sharma,81,Female,Maharashtra,District_C,9722636825,DIS010,CAMP016,Under Treatment
+VIC0675,Aditya Patel,32,Female,Karnataka,District_B,9489872269,DIS001,CAMP036,Minor Injuries
+VIC0676,Sneha Kumar,5,Male,Kerala,District_D,9503302720,DIS047,CAMP061,Minor Injuries
+VIC0677,Aarav Rao,51,Male,Gujarat,District_C,9481957759,DIS048,CAMP020,Serious Injuries
+VIC0678,Diya Pandey,57,Female,Karnataka,District_C,9456926598,DIS025,CAMP089,Serious Injuries
+VIC0679,Sai Desai,68,Female,Rajasthan,District_D,9208818102,DIS038,CAMP058,Minor Injuries
+VIC0680,Ayaan Joshi,16,Female,Kerala,District_A,9593907977,DIS014,CAMP008,Serious Injuries
+VIC0681,Rohan Kumar,33,Female,Tamil Nadu,District_C,9591871799,DIS050,CAMP081,Under Treatment
+VIC0682,Raj Singh,32,Male,Maharashtra,District_D,9466554938,DIS048,CAMP088,Critical
+VIC0683,Sanjay Joshi,50,Male,Rajasthan,District_D,9556875815,DIS018,CAMP015,Serious Injuries
+VIC0684,Vihaan Singh,60,Female,Rajasthan,District_D,9503800356,DIS027,CAMP017,Healthy
+VIC0685,Anika Patel,70,Male,West Bengal,District_D,9901258268,DIS001,CAMP060,Under Treatment
+VIC0686,Priya Sharma,59,Male,Rajasthan,District_A,9706972333,DIS046,CAMP022,Minor Injuries
+VIC0687,Dhruv Shah,47,Male,Rajasthan,District_C,9836999519,DIS036,CAMP085,Serious Injuries
+VIC0688,Diya Shah,21,Female,Kerala,District_C,9343871336,DIS001,CAMP063,Healthy
+VIC0689,Sana Yadav,41,Female,West Bengal,District_D,9162006173,DIS010,CAMP086,Healthy
+VIC0690,Sana Joshi,51,Female,Tamil Nadu,District_D,9694543028,DIS004,CAMP059,Healthy
+VIC0691,Sunita Gupta,82,Male,Maharashtra,District_B,9215969150,DIS034,CAMP082,Healthy
+VIC0692,Aanya Mehta,80,Male,Bihar,District_D,9289516248,DIS049,CAMP001,Healthy
+VIC0693,Sunita Reddy,32,Female,Gujarat,District_A,9583996198,DIS018,CAMP061,Under Treatment
+VIC0694,Sanjay Reddy,64,Male,Maharashtra,District_C,9176693652,DIS041,CAMP005,Healthy
+VIC0695,Sara Singh,26,Male,Tamil Nadu,District_C,9522007208,DIS020,CAMP012,Minor Injuries
+VIC0696,Arjun Rao,70,Male,Maharashtra,District_D,9349966665,DIS041,CAMP089,Minor Injuries
+VIC0697,Priya Sharma,73,Male,Rajasthan,District_A,9404807782,DIS010,CAMP087,Minor Injuries
+VIC0698,Myra Mehta,52,Male,Karnataka,District_D,9428685327,DIS012,CAMP079,Minor Injuries
+VIC0699,Ishita Reddy,20,Female,Rajasthan,District_B,9363745285,DIS038,CAMP079,Under Treatment
+VIC0700,Aanya Joshi,8,Female,Uttar Pradesh,District_A,9768366388,DIS047,CAMP012,Under Treatment
+VIC0701,Shaurya Reddy,19,Male,Tamil Nadu,District_D,9272017698,DIS021,CAMP023,Minor Injuries
+VIC0702,Aarav Gupta,33,Female,Kerala,District_D,9642259339,DIS019,CAMP039,Healthy
+VIC0703,Sara Mehta,76,Male,Karnataka,District_D,9628960264,DIS018,CAMP008,Serious Injuries
+VIC0704,Dhruv Pandey,31,Female,Bihar,District_A,9957987863,DIS043,CAMP025,Serious Injuries
+VIC0705,Diya Shah,83,Female,Maharashtra,District_D,9271812531,DIS034,CAMP007,Minor Injuries
+VIC0706,Aarav Gupta,34,Female,Kerala,District_D,9562573596,DIS043,CAMP027,Minor Injuries
+VIC0707,Isha Singh,16,Female,Maharashtra,District_A,9481069714,DIS006,CAMP089,Minor Injuries
+VIC0708,Sanjay Mehta,9,Female,Kerala,District_D,9811891390,DIS012,CAMP056,Healthy
+VIC0709,Riya Reddy,18,Male,Karnataka,District_B,9719033519,DIS043,CAMP076,Serious Injuries
+VIC0710,Vivaan Sharma,73,Male,Kerala,District_B,9976706190,DIS032,CAMP007,Critical
+VIC0711,Ishika Patel,36,Male,Uttar Pradesh,District_C,9739509585,DIS016,CAMP084,Minor Injuries
+VIC0712,Amit Joshi,32,Female,Gujarat,District_B,9575958304,DIS044,CAMP097,Minor Injuries
+VIC0713,Sunita Mehta,9,Female,West Bengal,District_B,9313590777,DIS024,CAMP019,Minor Injuries
+VIC0714,Raj Kumar,85,Female,Kerala,District_D,9190778385,DIS034,CAMP074,Healthy
+VIC0715,Ishita Reddy,77,Male,Odisha,District_D,9416985626,DIS043,CAMP045,Critical
+VIC0716,Anika Joshi,22,Male,Karnataka,District_C,9697021517,DIS045,CAMP003,Critical
+VIC0717,Priya Shah,21,Male,Maharashtra,District_A,9327227359,DIS026,CAMP008,Healthy
+VIC0718,Aryan Pandey,84,Male,Odisha,District_C,9154227341,DIS022,CAMP034,Critical
+VIC0719,Vivaan Joshi,60,Female,Tamil Nadu,District_A,9855871816,DIS008,CAMP038,Under Treatment
+VIC0720,Sai Nair,73,Male,Uttar Pradesh,District_C,9595373971,DIS027,CAMP031,Healthy
+VIC0721,Anvi Menon,85,Female,Karnataka,District_C,9257219692,DIS027,CAMP016,Critical
+VIC0722,Pranav Mehta,75,Female,Rajasthan,District_D,9634525335,DIS034,CAMP055,Minor Injuries
+VIC0723,Anvi Desai,25,Female,Uttar Pradesh,District_D,9348338161,DIS040,CAMP029,Healthy
+VIC0724,Pooja Singh,29,Male,Tamil Nadu,District_B,9163896535,DIS027,CAMP045,Healthy
+VIC0725,Raj Mehta,27,Female,Karnataka,District_C,9884129341,DIS043,CAMP096,Healthy
+VIC0726,Sara Rao,38,Male,Kerala,District_D,9544061614,DIS049,CAMP068,Healthy
+VIC0727,Anika Desai,82,Male,Tamil Nadu,District_D,9425848161,DIS021,CAMP098,Minor Injuries
+VIC0728,Myra Desai,23,Female,Karnataka,District_D,9514191759,DIS050,CAMP080,Healthy
+VIC0729,Amit Singh,53,Male,Gujarat,District_A,9960776869,DIS029,CAMP027,Healthy
+VIC0730,Sneha Mehta,54,Female,Karnataka,District_C,9848491084,DIS018,CAMP067,Serious Injuries
+VIC0731,Aryan Verma,73,Male,Bihar,District_B,9234871115,DIS017,CAMP047,Critical
+VIC0732,Aarav Shah,74,Female,Uttar Pradesh,District_A,9568767286,DIS018,CAMP100,Healthy
+VIC0733,Sanjay Joshi,14,Male,West Bengal,District_A,9452063076,DIS011,CAMP084,Healthy
+VIC0734,Sara Rao,24,Male,Bihar,District_D,9555189282,DIS015,CAMP055,Healthy
+VIC0735,Pooja Singh,18,Male,Rajasthan,District_A,9233237541,DIS013,CAMP099,Serious Injuries
+VIC0736,Priya Sharma,45,Male,Maharashtra,District_C,9893942806,DIS007,CAMP083,Serious Injuries
+VIC0737,Isha Yadav,49,Female,Gujarat,District_C,9229504180,DIS017,CAMP067,Healthy
+VIC0738,Sara Singh,39,Female,Karnataka,District_C,9268441314,DIS030,CAMP068,Healthy
+VIC0739,Priya Nair,42,Female,Bihar,District_D,9489155997,DIS005,CAMP019,Minor Injuries
+VIC0740,Ishita Yadav,85,Male,Gujarat,District_C,9948555248,DIS043,CAMP080,Serious Injuries
+VIC0741,Priya Yadav,24,Female,Rajasthan,District_C,9193144024,DIS009,CAMP092,Under Treatment
+VIC0742,Pooja Menon,77,Female,Rajasthan,District_B,9222988111,DIS019,CAMP056,Serious Injuries
+VIC0743,Pooja Singh,80,Male,Gujarat,District_C,9763192448,DIS035,CAMP003,Healthy
+VIC0744,Sana Pandey,27,Female,Karnataka,District_D,9684009132,DIS012,CAMP047,Healthy
+VIC0745,Ishita Kumar,73,Female,Kerala,District_A,9258586499,DIS012,CAMP100,Healthy
+VIC0746,Sai Verma,75,Female,Odisha,District_C,9985516186,DIS020,CAMP033,Healthy
+VIC0747,Krishna Yadav,45,Female,West Bengal,District_B,9397404681,DIS001,CAMP013,Under Treatment
+VIC0748,Ayaan Shah,40,Female,Maharashtra,District_D,9775141375,DIS046,CAMP027,Under Treatment
+VIC0749,Sneha Desai,82,Male,Tamil Nadu,District_D,9545137151,DIS027,CAMP065,Healthy
+VIC0750,Amit Joshi,52,Male,Rajasthan,District_A,9485652298,DIS031,CAMP076,Healthy
+VIC0751,Sanjay Sharma,20,Female,Odisha,District_B,9763751981,DIS008,CAMP020,Critical
+VIC0752,Sneha Mehta,66,Female,Karnataka,District_A,9420488656,DIS039,CAMP072,Minor Injuries
+VIC0753,Vihaan Yadav,16,Male,Gujarat,District_C,9231188940,DIS014,CAMP028,Critical
+VIC0754,Ishita Yadav,50,Male,Maharashtra,District_B,9374663674,DIS038,CAMP037,Healthy
+VIC0755,Sana Gupta,26,Male,West Bengal,District_B,9825360815,DIS045,CAMP062,Minor Injuries
+VIC0756,Ishita Desai,60,Female,West Bengal,District_D,9856393980,DIS043,CAMP082,Healthy
+VIC0757,Sana Pandey,51,Male,Maharashtra,District_D,9931995071,DIS048,CAMP084,Serious Injuries
+VIC0758,Vihaan Pandey,63,Female,Kerala,District_D,9119403110,DIS031,CAMP057,Serious Injuries
+VIC0759,Ayaan Singh,70,Female,Maharashtra,District_A,9394722057,DIS029,CAMP041,Critical
+VIC0760,Aditya Sharma,22,Female,Gujarat,District_C,9986194343,DIS036,CAMP092,Critical
+VIC0761,Raj Desai,31,Male,Uttar Pradesh,District_C,9166349395,DIS047,CAMP073,Healthy
+VIC0762,Ishita Reddy,24,Male,Rajasthan,District_A,9878466402,DIS020,CAMP028,Under Treatment
+VIC0763,Sara Desai,9,Male,Karnataka,District_B,9906467303,DIS040,CAMP053,Serious Injuries
+VIC0764,Aanya Yadav,62,Male,West Bengal,District_B,9535669289,DIS046,CAMP076,Under Treatment
+VIC0765,Shaurya Shah,42,Male,Maharashtra,District_B,9870704595,DIS043,CAMP059,Minor Injuries
+VIC0766,Rohan Nair,12,Male,Gujarat,District_D,9714164203,DIS049,CAMP092,Minor Injuries
+VIC0767,Raj Rao,66,Female,Odisha,District_D,9800863564,DIS036,CAMP087,Serious Injuries
+VIC0768,Anika Menon,46,Female,Kerala,District_D,9851463593,DIS034,CAMP015,Under Treatment
+VIC0769,Ishita Menon,80,Female,Kerala,District_C,9504676585,DIS014,CAMP091,Critical
+VIC0770,Aarav Joshi,2,Male,Uttar Pradesh,District_D,9924145956,DIS006,CAMP094,Healthy
+VIC0771,Dhruv Shah,81,Male,Gujarat,District_D,9612938762,DIS036,CAMP062,Serious Injuries
+VIC0772,Sana Nair,19,Male,Karnataka,District_A,9144120215,DIS033,CAMP027,Serious Injuries
+VIC0773,Pranav Verma,17,Female,Odisha,District_B,9660666462,DIS015,CAMP005,Healthy
+VIC0774,Vihaan Singh,49,Male,Bihar,District_C,9379941475,DIS001,CAMP092,Healthy
+VIC0775,Isha Yadav,28,Female,Maharashtra,District_B,9802400176,DIS012,CAMP038,Healthy
+VIC0776,Myra Mehta,39,Female,Bihar,District_D,9454206191,DIS049,CAMP093,Critical
+VIC0777,Sanjay Kumar,57,Male,Bihar,District_D,9677954831,DIS040,CAMP085,Minor Injuries
+VIC0778,Pranav Singh,66,Female,Gujarat,District_C,9335532745,DIS026,CAMP035,Healthy
+VIC0779,Pooja Menon,41,Male,Maharashtra,District_C,9979253742,DIS047,CAMP015,Minor Injuries
+VIC0780,Ishika Yadav,85,Male,Maharashtra,District_B,9416531474,DIS027,CAMP058,Healthy
+VIC0781,Vivaan Verma,80,Female,Rajasthan,District_D,9272423211,DIS045,CAMP018,Serious Injuries
+VIC0782,Arjun Yadav,45,Female,Karnataka,District_C,9667884075,DIS032,CAMP062,Minor Injuries
+VIC0783,Anvi Reddy,57,Female,Tamil Nadu,District_C,9920949254,DIS043,CAMP002,Serious Injuries
+VIC0784,Aryan Pandey,63,Male,Bihar,District_B,9733047004,DIS024,CAMP031,Serious Injuries
+VIC0785,Vivaan Nair,22,Male,Karnataka,District_D,9267289581,DIS046,CAMP046,Minor Injuries
+VIC0786,Aanya Sharma,80,Male,Gujarat,District_B,9889079250,DIS029,CAMP051,Minor Injuries
+VIC0787,Riya Shah,58,Female,Kerala,District_D,9108343777,DIS039,CAMP073,Minor Injuries
+VIC0788,Sana Yadav,61,Female,Gujarat,District_C,9575949114,DIS043,CAMP068,Under Treatment
+VIC0789,Myra Yadav,50,Female,Odisha,District_D,9810566300,DIS045,CAMP047,Critical
+VIC0790,Isha Verma,77,Male,Karnataka,District_C,9884249787,DIS050,CAMP080,Under Treatment
+VIC0791,Aditya Rao,81,Male,Kerala,District_D,9616690023,DIS038,CAMP086,Healthy
+VIC0792,Ananya Singh,42,Male,Uttar Pradesh,District_B,9893526929,DIS045,CAMP002,Healthy
+VIC0793,Myra Menon,1,Female,West Bengal,District_C,9406670478,DIS050,CAMP057,Under Treatment
+VIC0794,Vivaan Rao,62,Male,Uttar Pradesh,District_A,9722739595,DIS018,CAMP092,Healthy
+VIC0795,Anvi Singh,58,Female,Rajasthan,District_A,9871160791,DIS001,CAMP034,Serious Injuries
+VIC0796,Anvi Verma,17,Male,Kerala,District_C,9838594132,DIS027,CAMP057,Minor Injuries
+VIC0797,Sara Kumar,19,Male,Tamil Nadu,District_D,9363898718,DIS007,CAMP072,Healthy
+VIC0798,Sneha Mehta,46,Female,Bihar,District_B,9210458670,DIS006,CAMP082,Under Treatment
+VIC0799,Pranav Yadav,20,Male,Tamil Nadu,District_B,9525118267,DIS035,CAMP068,Minor Injuries
+VIC0800,Vivaan Shah,35,Female,Maharashtra,District_C,9844226325,DIS040,CAMP042,Under Treatment
+VIC0801,Aditya Menon,22,Male,Uttar Pradesh,District_D,9172178504,DIS001,CAMP096,Critical
+VIC0802,Aarav Gupta,39,Male,Rajasthan,District_C,9421802847,DIS005,CAMP015,Critical
+VIC0803,Myra Gupta,59,Male,Rajasthan,District_B,9111562397,DIS040,CAMP047,Healthy
+VIC0804,Sneha Verma,18,Female,Rajasthan,District_B,9745602408,DIS033,CAMP049,Serious Injuries
+VIC0805,Shaurya Patel,53,Female,Bihar,District_C,9924146653,DIS001,CAMP098,Minor Injuries
+VIC0806,Sana Desai,46,Male,Maharashtra,District_D,9444942625,DIS003,CAMP088,Critical
+VIC0807,Aanya Kumar,35,Female,West Bengal,District_C,9701190371,DIS036,CAMP031,Serious Injuries
+VIC0808,Anika Reddy,63,Female,Gujarat,District_A,9270821324,DIS004,CAMP045,Critical
+VIC0809,Arjun Pandey,60,Male,Gujarat,District_A,9670217570,DIS011,CAMP016,Minor Injuries
+VIC0810,Dhruv Shah,77,Male,Bihar,District_D,9512663635,DIS040,CAMP017,Under Treatment
+VIC0811,Sara Rao,51,Female,Maharashtra,District_C,9996452527,DIS020,CAMP077,Under Treatment
+VIC0812,Ananya Nair,33,Female,Karnataka,District_A,9782233714,DIS050,CAMP015,Healthy
+VIC0813,Isha Pandey,10,Female,Uttar Pradesh,District_C,9121626417,DIS027,CAMP073,Critical
+VIC0814,Ishita Reddy,16,Male,Maharashtra,District_A,9880390047,DIS017,CAMP008,Minor Injuries
+VIC0815,Diya Sharma,68,Female,Odisha,District_C,9992776786,DIS026,CAMP004,Under Treatment
+VIC0816,Sai Gupta,16,Female,Gujarat,District_C,9170049884,DIS026,CAMP037,Serious Injuries
+VIC0817,Dhruv Pandey,79,Male,Karnataka,District_D,9804239266,DIS050,CAMP099,Critical
+VIC0818,Aditya Sharma,67,Male,Maharashtra,District_D,9756255477,DIS005,CAMP064,Healthy
+VIC0819,Ishika Joshi,43,Female,Gujarat,District_B,9953539092,DIS028,CAMP032,Minor Injuries
+VIC0820,Dhruv Patel,27,Female,Karnataka,District_D,9861166044,DIS004,CAMP023,Serious Injuries
+VIC0821,Rohan Reddy,29,Male,Kerala,District_B,9776060122,DIS037,CAMP012,Healthy
+VIC0822,Amit Kumar,21,Female,Bihar,District_A,9442271378,DIS010,CAMP008,Minor Injuries
+VIC0823,Diya Sharma,40,Female,Kerala,District_D,9960442807,DIS033,CAMP036,Serious Injuries
+VIC0824,Ananya Pandey,2,Female,West Bengal,District_A,9739383173,DIS019,CAMP054,Minor Injuries
+VIC0825,Sai Patel,6,Male,Kerala,District_A,9829664034,DIS006,CAMP004,Serious Injuries
+VIC0826,Krishna Shah,37,Male,Kerala,District_D,9577631004,DIS029,CAMP033,Minor Injuries
+VIC0827,Vivaan Rao,54,Male,Gujarat,District_D,9449333259,DIS029,CAMP053,Healthy
+VIC0828,Anika Shah,18,Female,Kerala,District_C,9382501800,DIS019,CAMP017,Minor Injuries
+VIC0829,Sana Reddy,21,Male,Tamil Nadu,District_D,9243380137,DIS004,CAMP021,Serious Injuries
+VIC0830,Ishika Menon,15,Male,Maharashtra,District_C,9898662018,DIS005,CAMP054,Healthy
+VIC0831,Sai Verma,44,Male,Uttar Pradesh,District_B,9778456107,DIS036,CAMP083,Healthy
+VIC0832,Ishita Shah,74,Male,Odisha,District_D,9844155246,DIS027,CAMP026,Minor Injuries
+VIC0833,Ayaan Gupta,61,Female,Uttar Pradesh,District_B,9604276568,DIS050,CAMP018,Healthy
+VIC0834,Ishika Desai,64,Male,Bihar,District_C,9899265167,DIS019,CAMP048,Healthy
+VIC0835,Diya Rao,16,Female,Odisha,District_D,9692605882,DIS014,CAMP008,Minor Injuries
+VIC0836,Pranav Patel,66,Female,Bihar,District_B,9249147515,DIS018,CAMP062,Healthy
+VIC0837,Sneha Joshi,31,Male,Tamil Nadu,District_D,9627936100,DIS043,CAMP004,Under Treatment
+VIC0838,Pooja Singh,69,Male,Odisha,District_A,9474262451,DIS017,CAMP044,Minor Injuries
+VIC0839,Diya Reddy,1,Female,Tamil Nadu,District_D,9946831310,DIS040,CAMP098,Healthy
+VIC0840,Ayaan Verma,24,Female,Gujarat,District_C,9586941252,DIS033,CAMP057,Minor Injuries
+VIC0841,Sunita Mehta,62,Female,West Bengal,District_B,9274109960,DIS033,CAMP099,Serious Injuries
+VIC0842,Aanya Kumar,59,Male,Kerala,District_A,9943781729,DIS036,CAMP058,Healthy
+VIC0843,Ishita Shah,64,Male,Maharashtra,District_C,9598650308,DIS038,CAMP070,Healthy
+VIC0844,Sai Kumar,45,Female,Rajasthan,District_B,9169601366,DIS010,CAMP039,Healthy
+VIC0845,Ayaan Nair,33,Male,Odisha,District_D,9407484198,DIS037,CAMP033,Healthy
+VIC0846,Aryan Singh,18,Female,Bihar,District_B,9699286046,DIS022,CAMP040,Minor Injuries
+VIC0847,Myra Mehta,58,Male,Maharashtra,District_D,9494524904,DIS022,CAMP048,Minor Injuries
+VIC0848,Ishita Joshi,8,Female,Kerala,District_B,9503440423,DIS034,CAMP099,Under Treatment
+VIC0849,Sai Yadav,10,Male,Karnataka,District_B,9383157370,DIS010,CAMP004,Critical
+VIC0850,Ishita Nair,4,Male,Rajasthan,District_A,9864787324,DIS032,CAMP033,Critical
+VIC0851,Anvi Nair,9,Female,Kerala,District_D,9533026003,DIS024,CAMP021,Healthy
+VIC0852,Ishita Joshi,56,Female,West Bengal,District_C,9740961937,DIS036,CAMP027,Minor Injuries
+VIC0853,Riya Menon,6,Male,Odisha,District_D,9751096486,DIS036,CAMP080,Healthy
+VIC0854,Raj Yadav,9,Female,Rajasthan,District_B,9280447856,DIS025,CAMP097,Under Treatment
+VIC0855,Amit Gupta,47,Female,Gujarat,District_A,9587998415,DIS020,CAMP016,Serious Injuries
+VIC0856,Ishita Gupta,64,Female,Karnataka,District_B,9625947511,DIS029,CAMP088,Healthy
+VIC0857,Sana Gupta,54,Female,Gujarat,District_D,9903754197,DIS039,CAMP023,Serious Injuries
+VIC0858,Dhruv Nair,72,Male,Karnataka,District_B,9346455257,DIS027,CAMP003,Critical
+VIC0859,Aryan Verma,9,Female,Uttar Pradesh,District_B,9944291157,DIS026,CAMP055,Minor Injuries
+VIC0860,Rohan Verma,41,Male,Kerala,District_A,9891619827,DIS044,CAMP062,Under Treatment
+VIC0861,Priya Desai,4,Female,Odisha,District_B,9473820950,DIS025,CAMP056,Under Treatment
+VIC0862,Priya Sharma,38,Female,Kerala,District_D,9487496102,DIS032,CAMP043,Under Treatment
+VIC0863,Amit Mehta,53,Female,Bihar,District_D,9151323785,DIS007,CAMP078,Minor Injuries
+VIC0864,Ayaan Mehta,29,Male,Rajasthan,District_C,9175622998,DIS032,CAMP056,Serious Injuries
+VIC0865,Sara Verma,28,Male,Maharashtra,District_D,9424612445,DIS012,CAMP068,Under Treatment
+VIC0866,Vihaan Verma,24,Female,Gujarat,District_B,9452397769,DIS043,CAMP064,Healthy
+VIC0867,Krishna Patel,34,Female,Karnataka,District_A,9131043605,DIS008,CAMP056,Under Treatment
+VIC0868,Pooja Yadav,15,Female,Rajasthan,District_D,9683112805,DIS017,CAMP029,Healthy
+VIC0869,Pranav Sharma,73,Male,West Bengal,District_D,9468089396,DIS045,CAMP050,Healthy
+VIC0870,Isha Reddy,27,Male,Gujarat,District_A,9286719381,DIS017,CAMP038,Minor Injuries
+VIC0871,Sara Nair,84,Female,West Bengal,District_C,9678677002,DIS045,CAMP092,Healthy
+VIC0872,Vihaan Pandey,54,Male,Rajasthan,District_B,9907224448,DIS013,CAMP093,Healthy
+VIC0873,Vivaan Reddy,38,Female,Tamil Nadu,District_C,9288804271,DIS034,CAMP071,Serious Injuries
+VIC0874,Sai Singh,8,Male,Rajasthan,District_B,9760025330,DIS028,CAMP024,Minor Injuries
+VIC0875,Anika Verma,47,Female,Gujarat,District_D,9150542190,DIS036,CAMP067,Under Treatment
+VIC0876,Ishika Desai,57,Male,Uttar Pradesh,District_A,9410595327,DIS039,CAMP093,Minor Injuries
+VIC0877,Sai Yadav,27,Male,Uttar Pradesh,District_D,9291294880,DIS042,CAMP070,Serious Injuries
+VIC0878,Vihaan Patel,69,Male,Tamil Nadu,District_D,9219380228,DIS019,CAMP078,Under Treatment
+VIC0879,Anika Rao,15,Female,Rajasthan,District_D,9902964983,DIS015,CAMP085,Minor Injuries
+VIC0880,Aarav Mehta,56,Male,Kerala,District_B,9716107592,DIS020,CAMP020,Under Treatment
+VIC0881,Amit Shah,59,Male,Kerala,District_A,9843926774,DIS027,CAMP012,Healthy
+VIC0882,Shaurya Mehta,19,Male,Kerala,District_D,9885261756,DIS033,CAMP085,Healthy
+VIC0883,Rohan Patel,69,Male,West Bengal,District_B,9843194299,DIS017,CAMP050,Healthy
+VIC0884,Rohan Nair,16,Male,Tamil Nadu,District_B,9643006219,DIS036,CAMP074,Serious Injuries
+VIC0885,Pranav Mehta,85,Female,Karnataka,District_B,9893125374,DIS040,CAMP018,Critical
+VIC0886,Myra Kumar,46,Female,West Bengal,District_B,9621562643,DIS037,CAMP018,Healthy
+VIC0887,Aanya Nair,27,Female,Karnataka,District_A,9303872203,DIS006,CAMP037,Minor Injuries
+VIC0888,Sanjay Joshi,9,Male,Kerala,District_C,9264950828,DIS002,CAMP055,Healthy
+VIC0889,Amit Patel,45,Male,Bihar,District_B,9239741470,DIS029,CAMP093,Healthy
+VIC0890,Ananya Shah,15,Female,Maharashtra,District_B,9437317347,DIS028,CAMP056,Minor Injuries
+VIC0891,Arjun Rao,77,Male,Gujarat,District_D,9781706684,DIS038,CAMP067,Serious Injuries
+VIC0892,Amit Patel,79,Male,Odisha,District_D,9760658442,DIS003,CAMP071,Critical
+VIC0893,Rohan Menon,80,Male,West Bengal,District_D,9700766397,DIS043,CAMP086,Minor Injuries
+VIC0894,Ishita Verma,77,Male,Rajasthan,District_C,9686023165,DIS050,CAMP090,Healthy
+VIC0895,Aryan Mehta,12,Female,Rajasthan,District_B,9180832184,DIS034,CAMP068,Healthy
+VIC0896,Sneha Sharma,85,Male,Gujarat,District_A,9191441279,DIS024,CAMP047,Serious Injuries
+VIC0897,Anika Rao,20,Female,Gujarat,District_C,9397378677,DIS034,CAMP049,Serious Injuries
+VIC0898,Rohan Shah,34,Female,Bihar,District_D,9595722120,DIS041,CAMP088,Minor Injuries
+VIC0899,Shaurya Desai,75,Male,Odisha,District_B,9560373819,DIS012,CAMP020,Healthy
+VIC0900,Sanjay Menon,63,Female,Uttar Pradesh,District_D,9119351217,DIS015,CAMP073,Critical
+VIC0901,Aanya Gupta,61,Male,Tamil Nadu,District_D,9785177005,DIS015,CAMP073,Minor Injuries
+VIC0902,Krishna Joshi,40,Male,Bihar,District_C,9861143913,DIS038,CAMP076,Critical
+VIC0903,Rohan Joshi,16,Male,Odisha,District_C,9663746447,DIS023,CAMP010,Under Treatment
+VIC0904,Amit Sharma,64,Female,Gujarat,District_D,9928413807,DIS013,CAMP024,Minor Injuries
+VIC0905,Ishita Mehta,26,Male,Uttar Pradesh,District_A,9440028857,DIS036,CAMP024,Under Treatment
+VIC0906,Aditya Gupta,51,Male,Tamil Nadu,District_A,9912491309,DIS032,CAMP006,Minor Injuries
+VIC0907,Dhruv Nair,54,Male,Uttar Pradesh,District_A,9336425895,DIS012,CAMP006,Critical
+VIC0908,Riya Desai,29,Female,Gujarat,District_D,9741752147,DIS003,CAMP055,Critical
+VIC0909,Sneha Kumar,12,Male,Karnataka,District_D,9788038925,DIS026,CAMP078,Serious Injuries
+VIC0910,Dhruv Joshi,32,Female,Karnataka,District_D,9326475619,DIS018,CAMP083,Minor Injuries
+VIC0911,Amit Gupta,48,Female,Odisha,District_B,9659620466,DIS050,CAMP001,Serious Injuries
+VIC0912,Ayaan Singh,14,Male,Uttar Pradesh,District_B,9619125974,DIS028,CAMP056,Healthy
+VIC0913,Sunita Rao,77,Male,Gujarat,District_C,9913207914,DIS008,CAMP057,Healthy
+VIC0914,Aarav Kumar,25,Male,Odisha,District_A,9388251034,DIS004,CAMP057,Healthy
+VIC0915,Priya Sharma,26,Male,Bihar,District_D,9423574737,DIS020,CAMP043,Under Treatment
+VIC0916,Pranav Sharma,69,Female,Bihar,District_C,9803267534,DIS002,CAMP014,Under Treatment
+VIC0917,Riya Nair,35,Male,Odisha,District_A,9141441213,DIS032,CAMP001,Minor Injuries
+VIC0918,Vihaan Joshi,14,Male,Maharashtra,District_B,9295452749,DIS043,CAMP069,Healthy
+VIC0919,Ishika Joshi,75,Male,Bihar,District_C,9975383363,DIS022,CAMP038,Minor Injuries
+VIC0920,Riya Sharma,21,Male,Uttar Pradesh,District_D,9992108895,DIS034,CAMP100,Healthy
+VIC0921,Ishika Shah,14,Male,Odisha,District_A,9528230217,DIS006,CAMP002,Minor Injuries
+VIC0922,Shaurya Menon,50,Female,Karnataka,District_B,9825113033,DIS031,CAMP026,Under Treatment
+VIC0923,Vihaan Kumar,57,Male,Gujarat,District_B,9303512936,DIS026,CAMP041,Serious Injuries
+VIC0924,Amit Patel,36,Female,Bihar,District_C,9128656278,DIS030,CAMP032,Minor Injuries
+VIC0925,Aryan Shah,3,Male,Kerala,District_D,9767098196,DIS036,CAMP022,Healthy
+VIC0926,Aryan Singh,72,Male,Tamil Nadu,District_D,9368743779,DIS033,CAMP038,Under Treatment
+VIC0927,Anika Menon,51,Female,Kerala,District_C,9597483215,DIS031,CAMP024,Critical
+VIC0928,Myra Verma,72,Female,Tamil Nadu,District_A,9244802923,DIS012,CAMP084,Minor Injuries
+VIC0929,Krishna Singh,15,Female,Kerala,District_D,9611366741,DIS036,CAMP051,Minor Injuries
+VIC0930,Rohan Menon,28,Female,West Bengal,District_A,9913127228,DIS010,CAMP026,Serious Injuries
+VIC0931,Diya Desai,19,Female,Uttar Pradesh,District_C,9699644125,DIS025,CAMP046,Healthy
+VIC0932,Sanjay Kumar,61,Male,West Bengal,District_B,9434508418,DIS002,CAMP008,Healthy
+VIC0933,Vivaan Joshi,34,Male,Uttar Pradesh,District_B,9412619823,DIS040,CAMP019,Healthy
+VIC0934,Raj Menon,82,Male,Odisha,District_D,9308440300,DIS023,CAMP083,Critical
+VIC0935,Diya Joshi,54,Male,Odisha,District_A,9221780318,DIS031,CAMP079,Critical
+VIC0936,Anvi Desai,6,Male,Gujarat,District_D,9759317588,DIS024,CAMP020,Minor Injuries
+VIC0937,Sara Rao,53,Male,Tamil Nadu,District_A,9682001502,DIS019,CAMP093,Critical
+VIC0938,Sai Rao,44,Male,Tamil Nadu,District_A,9585928241,DIS046,CAMP044,Under Treatment
+VIC0939,Anika Mehta,79,Female,Odisha,District_A,9575597813,DIS040,CAMP032,Healthy
+VIC0940,Rohan Nair,20,Female,Odisha,District_B,9590558716,DIS032,CAMP025,Healthy
+VIC0941,Vivaan Shah,4,Male,Gujarat,District_A,9105609079,DIS017,CAMP050,Serious Injuries
+VIC0942,Vihaan Shah,39,Male,Uttar Pradesh,District_A,9452465968,DIS043,CAMP029,Healthy
+VIC0943,Aanya Nair,73,Male,Karnataka,District_A,9697582876,DIS030,CAMP089,Under Treatment
+VIC0944,Diya Joshi,37,Female,Gujarat,District_C,9902847228,DIS049,CAMP008,Minor Injuries
+VIC0945,Sai Pandey,13,Female,Gujarat,District_C,9176871724,DIS016,CAMP008,Healthy
+VIC0946,Vihaan Menon,85,Female,Rajasthan,District_C,9131870247,DIS034,CAMP095,Serious Injuries
+VIC0947,Sneha Desai,36,Male,Odisha,District_B,9993683559,DIS003,CAMP085,Critical
+VIC0948,Aditya Nair,26,Male,Maharashtra,District_A,9145063848,DIS046,CAMP044,Healthy
+VIC0949,Aarav Menon,1,Female,Kerala,District_A,9159619307,DIS007,CAMP099,Minor Injuries
+VIC0950,Myra Singh,47,Male,Bihar,District_C,9434545035,DIS026,CAMP074,Minor Injuries
+VIC0951,Aarav Gupta,19,Female,Kerala,District_D,9650572579,DIS014,CAMP090,Minor Injuries
+VIC0952,Sara Desai,25,Female,Maharashtra,District_C,9284916723,DIS021,CAMP029,Under Treatment
+VIC0953,Pooja Nair,79,Female,Gujarat,District_D,9978497570,DIS022,CAMP009,Minor Injuries
+VIC0954,Vihaan Patel,39,Male,West Bengal,District_B,9929572028,DIS014,CAMP074,Critical
+VIC0955,Dhruv Kumar,65,Male,West Bengal,District_B,9983097429,DIS041,CAMP032,Under Treatment
+VIC0956,Myra Desai,19,Male,Odisha,District_B,9158192754,DIS042,CAMP096,Healthy
+VIC0957,Ishita Patel,6,Male,Karnataka,District_D,9982714428,DIS003,CAMP005,Healthy
+VIC0958,Pooja Yadav,13,Female,Karnataka,District_C,9164942524,DIS006,CAMP045,Serious Injuries
+VIC0959,Aryan Singh,29,Male,Tamil Nadu,District_B,9870792336,DIS013,CAMP056,Serious Injuries
+VIC0960,Rohan Kumar,29,Female,West Bengal,District_D,9650014403,DIS008,CAMP090,Healthy
+VIC0961,Raj Verma,14,Female,Gujarat,District_D,9287578008,DIS022,CAMP068,Critical
+VIC0962,Isha Sharma,58,Female,Karnataka,District_B,9411537359,DIS049,CAMP037,Under Treatment
+VIC0963,Shaurya Patel,71,Male,Maharashtra,District_A,9427294269,DIS027,CAMP041,Healthy
+VIC0964,Sana Nair,61,Male,Tamil Nadu,District_A,9928432671,DIS005,CAMP056,Minor Injuries
+VIC0965,Sana Reddy,4,Female,Rajasthan,District_C,9181730602,DIS003,CAMP061,Serious Injuries
+VIC0966,Priya Singh,19,Female,Bihar,District_A,9678090646,DIS012,CAMP076,Healthy
+VIC0967,Sunita Pandey,3,Female,Odisha,District_C,9314380703,DIS030,CAMP091,Serious Injuries
+VIC0968,Ayaan Mehta,35,Female,Odisha,District_C,9469030370,DIS032,CAMP014,Under Treatment
+VIC0969,Krishna Mehta,62,Male,Karnataka,District_B,9277603230,DIS035,CAMP066,Healthy
+VIC0970,Ananya Sharma,71,Male,Uttar Pradesh,District_A,9560568514,DIS002,CAMP035,Minor Injuries
+VIC0971,Rohan Yadav,15,Female,Odisha,District_B,9264572976,DIS021,CAMP004,Minor Injuries
+VIC0972,Diya Sharma,72,Male,Odisha,District_C,9418369339,DIS011,CAMP049,Healthy
+VIC0973,Amit Patel,20,Female,Tamil Nadu,District_C,9846242859,DIS006,CAMP020,Critical
+VIC0974,Amit Pandey,13,Male,West Bengal,District_D,9463101660,DIS001,CAMP041,Critical
+VIC0975,Rohan Shah,13,Male,Maharashtra,District_B,9895457916,DIS022,CAMP024,Minor Injuries
+VIC0976,Raj Rao,21,Male,West Bengal,District_D,9617228519,DIS031,CAMP038,Minor Injuries
+VIC0977,Sara Kumar,6,Male,Maharashtra,District_B,9153401619,DIS010,CAMP071,Critical
+VIC0978,Diya Gupta,11,Female,Uttar Pradesh,District_C,9432339177,DIS018,CAMP069,Under Treatment
+VIC0979,Myra Shah,11,Female,Tamil Nadu,District_D,9352248328,DIS039,CAMP068,Minor Injuries
+VIC0980,Raj Reddy,37,Female,Odisha,District_C,9864973787,DIS024,CAMP001,Healthy
+VIC0981,Arjun Mehta,56,Female,Karnataka,District_A,9461232387,DIS029,CAMP077,Critical
+VIC0982,Anvi Pandey,1,Female,Gujarat,District_B,9892297950,DIS040,CAMP076,Serious Injuries
+VIC0983,Dhruv Menon,21,Male,Odisha,District_C,9684100056,DIS030,CAMP072,Healthy
+VIC0984,Isha Verma,26,Male,Maharashtra,District_B,9985148277,DIS045,CAMP033,Healthy
+VIC0985,Vihaan Joshi,20,Female,Karnataka,District_D,9806627982,DIS023,CAMP079,Minor Injuries
+VIC0986,Shaurya Gupta,69,Male,Rajasthan,District_C,9132050491,DIS038,CAMP003,Under Treatment
+VIC0987,Raj Shah,43,Male,Uttar Pradesh,District_C,9682612247,DIS029,CAMP019,Under Treatment
+VIC0988,Aryan Sharma,48,Female,Rajasthan,District_A,9180099601,DIS008,CAMP081,Under Treatment
+VIC0989,Vihaan Gupta,20,Female,Kerala,District_B,9311950227,DIS004,CAMP059,Serious Injuries
+VIC0990,Anika Nair,8,Female,Karnataka,District_C,9415281514,DIS015,CAMP062,Minor Injuries
+VIC0991,Amit Patel,5,Male,Bihar,District_D,9449702160,DIS032,CAMP033,Minor Injuries
+VIC0992,Aanya Gupta,36,Female,Karnataka,District_D,9746209877,DIS029,CAMP007,Serious Injuries
+VIC0993,Myra Reddy,49,Male,Kerala,District_B,9874248930,DIS007,CAMP032,Healthy
+VIC0994,Aarav Desai,28,Male,Gujarat,District_D,9151130306,DIS022,CAMP064,Healthy
+VIC0995,Ayaan Singh,65,Female,Uttar Pradesh,District_A,9402764269,DIS016,CAMP097,Healthy
+VIC0996,Priya Verma,14,Male,Kerala,District_B,9484701019,DIS013,CAMP054,Minor Injuries
+VIC0997,Ayaan Patel,9,Male,Bihar,District_C,9722362795,DIS020,CAMP004,Serious Injuries
+VIC0998,Arjun Menon,80,Female,Maharashtra,District_D,9784563508,DIS011,CAMP076,Healthy
+VIC0999,Dhruv Patel,27,Male,Odisha,District_C,9754179256,DIS028,CAMP099,Minor Injuries
+VIC1000,Aditya Nair,35,Male,Rajasthan,District_D,9246709493,DIS012,CAMP098,Minor Injuries

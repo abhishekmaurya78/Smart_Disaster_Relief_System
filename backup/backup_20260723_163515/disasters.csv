@@ -1,0 +1,52 @@
+Disaster_ID,Disaster_Type,State,District,Start_Date,End_Date,Severity,Affected_People,Status
+DIS001,Drought,Maharashtra,Mumbai,2025-02-17,2025-04-01,High,20997,Active
+DIS002,Earthquake,Assam,Jorhat,2025-03-03,2025-03-15,High,42787,Resolved
+DIS003,Flood,Jammu and Kashmir,Srinagar,2023-11-13,2023-11-18,Low,26087,Recovery Phase
+DIS004,Heatwave,Uttar Pradesh,Lucknow,2024-12-15,2025-01-22,Medium,16943,Recovery Phase
+DIS005,Drought,Tamil Nadu,Coimbatore,2024-05-05,2024-06-18,High,12782,Active
+DIS006,Flood,Tamil Nadu,Salem,2023-12-21,2024-01-08,Medium,22510,Active
+DIS007,Epidemic,Punjab,Ludhiana,2024-12-24,2024-12-25,Medium,13208,Active
+DIS008,Forest Fire,Odisha,Bhubaneswar,2024-01-04,2024-02-13,High,33612,Recovery Phase
+DIS009,Drought,Haryana,Karnal,2024-11-27,2025-01-26,Critical,14929,Active
+DIS010,Heatwave,Uttar Pradesh,Kanpur,2024-02-04,2024-03-18,Critical,28118,Under Control
+DIS011,Heatwave,West Bengal,Darjeeling,2025-02-20,2025-03-10,Critical,34178,Resolved
+DIS012,Forest Fire,Karnataka,Bengaluru,2023-08-29,2023-10-20,Low,24066,Active
+DIS013,Cyclone,West Bengal,Howrah,2024-03-18,2024-03-21,Low,11101,Recovery Phase
+DIS014,Tsunami,Uttar Pradesh,Varanasi,2025-02-11,2025-03-11,Critical,43223,Resolved
+DIS015,Cyclone,Karnataka,Hubballi,2024-05-08,2024-06-22,High,19814,Active
+DIS016,Drought,Uttar Pradesh,Lucknow,2025-01-02,2025-01-21,Critical,24074,Recovery Phase
+DIS017,Earthquake,Bihar,Bhagalpur,2023-09-21,2023-10-27,Medium,27693,Resolved
+DIS018,Cold Wave,Bihar,Darbhanga,2024-07-04,2024-07-25,Critical,3242,Active
+DIS019,Cold Wave,Odisha,Cuttack,2024-05-31,2024-06-29,High,36755,Active
+DIS020,Flood,West Bengal,Siliguri,2023-11-01,2023-11-13,High,8647,Resolved
+DIS021,Cold Wave,Karnataka,Mysuru,2023-09-30,2023-11-05,Medium,37799,Under Control
+DIS022,Heatwave,Uttar Pradesh,Prayagraj,2024-02-05,2024-03-20,Medium,35762,Recovery Phase
+DIS023,Epidemic,Tamil Nadu,Salem,2025-01-13,2025-01-25,Critical,17365,Active
+DIS024,Cold Wave,Gujarat,Vadodara,2024-09-03,2024-09-29,High,39452,Recovery Phase
+DIS025,Flood,Maharashtra,Pune,2023-01-03,2023-02-01,Critical,32646,Recovery Phase
+DIS026,Heatwave,Rajasthan,Kota,2024-05-31,2024-07-10,Critical,15338,Active
+DIS027,Cyclone,Maharashtra,Nagpur,2023-05-21,2023-06-10,Medium,31575,Recovery Phase
+DIS028,Cold Wave,Rajasthan,Jodhpur,2023-04-17,2023-05-11,Critical,17823,Resolved
+DIS029,Cyclone,Rajasthan,Udaipur,2023-05-20,2023-05-31,Medium,37576,Active
+DIS030,Tsunami,West Bengal,Kolkata,2024-11-18,2024-12-18,High,15964,Active
+DIS031,Forest Fire,Rajasthan,Kota,2023-08-30,2023-09-15,Medium,24103,Active
+DIS032,Earthquake,Karnataka,Mangaluru,2024-08-12,2024-09-07,Medium,24479,Active
+DIS033,Cold Wave,Tamil Nadu,Tiruchirappalli,2025-03-08,2025-04-25,Medium,48634,Recovery Phase
+DIS034,Drought,Bihar,Darbhanga,2023-10-17,2023-10-20,Medium,48366,Active
+DIS035,Landslide,Odisha,Bhubaneswar,2024-09-07,2024-10-27,High,34190,Recovery Phase
+DIS036,Earthquake,Bihar,Patna,2023-05-30,2023-06-25,Medium,1663,Recovery Phase
+DIS037,Drought,Kerala,Alappuzha,2023-10-09,2023-11-15,Critical,23936,Active
+DIS038,Flood,Jammu and Kashmir,Udhampur,2024-12-31,2025-02-16,High,7866,Under Control
+DIS039,Heatwave,Tamil Nadu,Salem,2024-08-13,2024-10-10,Critical,13213,Active
+DIS040,Cyclone,Odisha,Sambalpur,2023-12-16,2024-01-12,Critical,30517,Under Control
+DIS041,Cyclone,Haryana,Faridabad,2024-05-30,2024-06-16,High,22379,Resolved
+DIS042,Forest Fire,Rajasthan,Jodhpur,2024-05-04,2024-06-21,Medium,40252,Recovery Phase
+DIS043,Landslide,Maharashtra,Nashik,2023-09-08,2023-09-09,High,12644,Active
+DIS044,Forest Fire,Karnataka,Bengaluru,2023-07-10,2023-08-16,Medium,46006,Resolved
+DIS045,Heatwave,Kerala,Thrissur,2024-12-09,2024-12-20,High,20047,Recovery Phase
+DIS046,Cold Wave,Gujarat,Rajkot,2024-10-12,2024-10-23,Medium,30524,Resolved
+DIS047,Drought,Uttar Pradesh,Varanasi,2023-05-02,2023-06-17,High,44466,Resolved
+DIS048,Cold Wave,Punjab,Chandigarh,2023-10-12,2023-12-10,High,23968,Active
+DIS049,Earthquake,Assam,Jorhat,2023-12-26,2024-01-20,Medium,10352,Recovery Phase
+DIS050,Drought,Odisha,Rourkela,2025-02-18,2025-03-15,High,48112,Under Control
+DIS051,Cyclone,Kerala,Ernakulam,2024-07-15,2024-07-25,Medium,5000,Active

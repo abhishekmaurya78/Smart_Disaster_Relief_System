@@ -1,0 +1,55 @@
+============================================================
+                SMART DISASTER RELIEF SYSTEM
+============================================================
+
+Project: Smart Disaster Relief System
+Version: 1.0.0
+Author: Abhishek Maurya
+
+============================================================
+                PROJECT OVERVIEW
+============================================================
+
+A complete disaster relief management system built with Python.
+
+Features:
+- Disaster Management (CRUD)
+- Victim Management
+- Volunteer Management
+- Relief Camp Management
+- Inventory Management (Food & Medicine)
+- Report Generation
+- Data Backup & Restore
+- Admin Authentication
+
+============================================================
+                TECHNOLOGY STACK
+============================================================
+
+Language: Python 3.9+
+Storage: CSV Files
+Logging: Python Logging Module
+Authentication: SHA256 Hashing
+
+============================================================
+                FOLDER STRUCTURE
+============================================================
+
+Smart_Disaster_Relief_System/
+├── data/              # CSV data files
+├── backup/            # Backup files
+├── reports/           # Generated reports
+├── assets/            # Project assets
+├── logs/              # Application logs
+├── main.py            # Entry point
+├── auth.py            # Authentication
+├── disaster.py        # Disaster management
+├── backup.py          # Backup system
+├── report.py          # Report generation
+└── utils.py           # Utilities
+
+============================================================
+                CONTACT
+============================================================
+
+GitHub: https://github.com/abhishek-maurya-dev

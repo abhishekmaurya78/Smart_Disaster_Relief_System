@@ -1,0 +1,91 @@
+======================================================================
+ DISASTER RELIEF SYSTEM - DISASTER REPORT
+======================================================================
+Report Generated: 2026-07-23 16:37:03
+Total Disasters: 51
+======================================================================
+
+SEVERITY SUMMARY
+--------------------------------------------------
+  High: 17
+  Low: 3
+  Medium: 18
+  Critical: 13
+
+STATUS SUMMARY
+--------------------------------------------------
+  Active: 21
+  Resolved: 10
+  Recovery Phase: 15
+  Under Control: 5
+
+DISASTER TYPE SUMMARY
+--------------------------------------------------
+  Drought: 8
+  Cold Wave: 8
+  Heatwave: 7
+  Cyclone: 7
+  Earthquake: 5
+  Flood: 5
+  Forest Fire: 5
+  Epidemic: 2
+  Tsunami: 2
+  Landslide: 2
+
+======================================================================
+ DETAILED DISASTER LIST
+======================================================================
+
+ID         Type            State           Severity   Affected     Status         
+----------------------------------------------------------------------
+DIS001     Drought         Maharashtra     High       20997        Active         
+DIS002     Earthquake      Assam           High       42787        Resolved       
+DIS003     Flood           Jammu and Kashmir Low        26087        Recovery Phase 
+DIS004     Heatwave        Uttar Pradesh   Medium     16943        Recovery Phase 
+DIS005     Drought         Tamil Nadu      High       12782        Active         
+DIS006     Flood           Tamil Nadu      Medium     22510        Active         
+DIS007     Epidemic        Punjab          Medium     13208        Active         
+DIS008     Forest Fire     Odisha          High       33612        Recovery Phase 
+DIS009     Drought         Haryana         Critical   14929        Active         
+DIS010     Heatwave        Uttar Pradesh   Critical   28118        Under Control  
+DIS011     Heatwave        West Bengal     Critical   34178        Resolved       
+DIS012     Forest Fire     Karnataka       Low        24066        Active         
+DIS013     Cyclone         West Bengal     Low        11101        Recovery Phase 
+DIS014     Tsunami         Uttar Pradesh   Critical   43223        Resolved       
+DIS015     Cyclone         Karnataka       High       19814        Active         
+DIS016     Drought         Uttar Pradesh   Critical   24074        Recovery Phase 
+DIS017     Earthquake      Bihar           Medium     27693        Resolved       
+DIS018     Cold Wave       Bihar           Critical   3242         Active         
+DIS019     Cold Wave       Odisha          High       36755        Active         
+DIS020     Flood           West Bengal     High       8647         Resolved       
+DIS021     Cold Wave       Karnataka       Medium     37799        Under Control  
+DIS022     Heatwave        Uttar Pradesh   Medium     35762        Recovery Phase 
+DIS023     Epidemic        Tamil Nadu      Critical   17365        Active         
+DIS024     Cold Wave       Gujarat         High       39452        Recovery Phase 
+DIS025     Flood           Maharashtra     Critical   32646        Recovery Phase 
+DIS026     Heatwave        Rajasthan       Critical   15338        Active         
+DIS027     Cyclone         Maharashtra     Medium     31575        Recovery Phase 
+DIS028     Cold Wave       Rajasthan       Critical   17823        Resolved       
+DIS029     Cyclone         Rajasthan       Medium     37576        Active         
+DIS030     Tsunami         West Bengal     High       15964        Active         
+DIS031     Forest Fire     Rajasthan       Medium     24103        Active         
+DIS032     Earthquake      Karnataka       Medium     24479        Active         
+DIS033     Cold Wave       Tamil Nadu      Medium     48634        Recovery Phase 
+DIS034     Drought         Bihar           Medium     48366        Active         
+DIS035     Landslide       Odisha          High       34190        Recovery Phase 
+DIS036     Earthquake      Bihar           Medium     1663         Recovery Phase 
+DIS037     Drought         Kerala          Critical   23936        Active         
+DIS038     Flood           Jammu and Kashmir High       7866         Under Control  
+DIS039     Heatwave        Tamil Nadu      Critical   13213        Active         
+DIS040     Cyclone         Odisha          Critical   30517        Under Control  
+DIS041     Cyclone         Haryana         High       22379        Resolved       
+DIS042     Forest Fire     Rajasthan       Medium     40252        Recovery Phase 
+DIS043     Landslide       Maharashtra     High       12644        Active         
+DIS044     Forest Fire     Karnataka       Medium     46006        Resolved       
+DIS045     Heatwave        Kerala          High       20047        Recovery Phase 
+DIS046     Cold Wave       Gujarat         Medium     30524        Resolved       
+DIS047     Drought         Uttar Pradesh   High       44466        Resolved       
+DIS048     Cold Wave       Punjab          High       23968        Active         
+DIS049     Earthquake      Assam           Medium     10352        Recovery Phase 
+DIS050     Drought         Odisha          High       48112        Under Control  
+DIS051     Cyclone         Kerala          Medium     5000         Active         
